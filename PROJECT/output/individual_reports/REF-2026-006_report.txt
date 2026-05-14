@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-006
+Applicant: Seán Doyle
+Status: Eligible - Income Flagged
+
+COMPOSITE SCORE: 58.0/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 58
+  employer_ref_score_normalised: 40
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 40
+
+AI SUMMARY:
+Seán Doyle (Ref: REF-2026-006) presents a mixed application for the property at 14 Charleston Road, Ranelagh. While his financial stability scores moderately well at 2.92x rent coverage, red flags and logical inconsistencies reveal concerns about his motivations and credibility. A deep dive into the evidence log highlights notable omissions, contradictions, and discrepancies that prevent us from fully endorsing him as a strong candidate.
+
+ACTION REQUIRED: Request proof of actual income, clarification on annual income discrepancy from employer's statement
+
+RED FLAGS:
+  [!] Lack of meaningful information provided
+  [!] Noticeable omission of qualities that make an applicant a good tenant

@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-027
+Applicant: Fiona Shaw
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 80.0/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 90
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Fiona Shaw is a strong candidate who effectively demonstrates financial stability, but her professional standing and tenancy history show some inconsistencies. Her motivational concerns are relatively minor, and verification integrity presents no issues. A weighted composite score of 80/100 indicates a solid overall performance.
+
+ACTION REQUIRED: None
+
+RED FLAGS:
+  [!] Notable omissions: what are Fiona's strengths in a tenancy context?
+  [!] The reference does not directly address the issue or discuss specific qualities

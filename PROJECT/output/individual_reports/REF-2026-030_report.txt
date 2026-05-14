@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-030
+Applicant: Caitriona Balfe
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 82.5/100
+RECOMMENDATION: Strong Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Caitriona Balfe presents a well-rounded application, showcasing moderate to high scores across various criteria. While her professional standing and tenancy history are commendable, the most impressive aspect of her application is her exceptional financial stability. However, there are minor red flags regarding personal motivation and a lack of concrete details about her character or behavior.
+
+ACTION REQUIRED: Invite to viewing with a brief follow-up discussion to address the lack of specific details
+
+RED FLAGS:
+  [!] Lack of specific details about Caitriona's work performance or character
+  [!] The lack of concrete details about her character or behavior in the property might indicate superficiality.

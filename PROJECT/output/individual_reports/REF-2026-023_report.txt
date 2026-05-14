@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-023
+Applicant: Cillian Murphy
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 82.5/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Cillian Murphy presents a promising profile, but with some subtle concerns. His impeccable financial stability and moderate tenancy history suggest a reliable tenant. However, the templated language in his application may hint at a surface-level approach, and the motivational concerns warrant further exploration.
+
+ACTION REQUIRED: Invite Cillian Murphy for an initial viewing to address the motivational concerns and provide further insight into his profile.
+
+RED FLAGS:
+  [!] Templated language suggests potential lack of depth or authenticity
+  [!] Some vagueness in specifics

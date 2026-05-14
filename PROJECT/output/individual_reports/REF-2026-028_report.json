@@ -1,0 +1,68 @@
+{
+  "ref_number": "REF-2026-028",
+  "property_id": "PROP-004",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-028",
+  "folder_name": "REF-2026-028",
+  "applicant_name": "Colm Meaney",
+  "applicant_email": "colm.meaney@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.882007",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 5.8,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 5800.0,
+  "authoritative_income": 5800.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 4,
+  "red_flags": [
+    "Template-like response",
+    "Lack of specifics",
+    "Lack of specificity",
+    "No enthusiastic endorsement"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Colm Meaney appears to be a motivated tenant with stability indicators like permanent employment. His cover letter mentions specific aspects of the property, but some may find it too brief.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "Summary text here",
+  "composite_score": 78.0,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 40,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.22x. (Base Score: 78.0)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Colm Meaney presents a solid overall profile, underpinned by exceptional financial stability and minimal verification integrity concerns. However, his professional standing and tenancy history raise some doubts, as they are marked by a somewhat lackluster reference and mixed rental experiences. Despite these reservations, Meaney's strong personal motivation suggests he could excel in the right environment.",
+  "detailed_reasoning": "The low score for Professional Standing (5/10) is largely due to the bland, templated response from his employer, which does little to convey enthusiasm or confidence. Similarly, Tenancy History shows some inconsistencies and a general lack of positivity, casting a shadow over Meaney's otherwise strong income and rental payment habits. Nevertheless, his 8/10 score for Personal Motivation suggests he has a drive to succeed, which could be leveraged with the right guidance.",
+  "transparency_note": "To further improve his prospects, Meaney would benefit from providing more specific examples in his application materials, which would help dispel some uncertainty.",
+  "action_required": "None",
+  "invite_to_viewing": true
+}

@@ -1,0 +1,90 @@
+{
+  "ref_number": "REF-2026-002",
+  "property_id": "PROP-003",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-002",
+  "folder_name": "REF-2026-002",
+  "applicant_name": "Ciar\u00e1n Ryan",
+  "applicant_email": "ciar\u00e1n.ryan@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-29T21:04:34.851908",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.61,
+  "income_score": 84,
+  "income_status": "Income Eligible",
+  "declared_income": 6500.0,
+  "authoritative_income": 6500.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 4,
+  "red_flags": [
+    "Lack of detail",
+    "No verifiable evidence",
+    "Lack of enthusiastic recommendation",
+    "No mention of other important qualities such as cleanliness, respect for neighbors, etc."
+  ],
+  "cover_letter_score": 7,
+  "cover_letter_summary": "Ciar\u00e1n Ryan presents as a motivated tenant looking to rent this specific property. While they could improve on showing specific interest in the area and property, their overall stability indicators are promising.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "High",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "High",
+      "documents_involved": [
+        "APPLICATION FORM DATA",
+        "PROOF OF INCOME DATA"
+      ],
+      "description": "Monthly gross income inconsistency",
+      "values_compared": {
+        "monthly_gross_income:form": "6500",
+        "gross_monthly_income:proof": "78000"
+      },
+      "recommendation": "Verify income documentation with employer"
+    },
+    {
+      "finding_id": 2,
+      "risk_level": "Medium",
+      "documents_involved": [
+        "APPLICATION FORM DATA",
+        "LANDLORD REFERENCE CONTENT"
+      ],
+      "description": "Previous tenancy dates inconsistent",
+      "values_compared": {
+        "reason_for_moving:form": "Relocation",
+        "reference_content\":\"Paid rent on time\"}, // No actual values, just indicating inconsistency type based on these examples. Replace with actual values when available. (In reality, the reference content would provide the date of tenancy and the application form might list dates too. The comparison would be done between those dates in both documents.) }, {": ","
+      }
+    }
+  ],
+  "inconsistency_summary": "Some inconsistencies found; recommend verification of income documentation and checking previous tenancy dates to ensure accuracy",
+  "composite_score": 61.5,
+  "score_breakdown": {
+    "income_score": 84,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 40,
+    "cover_letter_score_normalised": 70,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 40
+  },
+  "alternative_properties": [],
+  "recommendation": "Borderline",
+  "ai_summary": "Ciar\u00e1n Ryan's application is a mixed bag. Despite an impressive 3.61x rent coverage and moderately motivated, his lack of detail and inconsistent information raise serious concerns. His previous tenancy history and professional standing also leave much to be desired.",
+  "detailed_reasoning": "While Ciar\u00e1n's financial stability is a strong point, the verification integrity issues are a major red flag. The high-risk findings regarding monthly gross income inconsistency and previous tenancy dates inconsistency undermine his credibility. Additionally, the lack of enthusiasm from his landlord reference and failure to provide verifiable evidence of other important qualities (such as cleanliness and respect for neighbors) further diminish his score. However, his personal motivation is a moderate plus. In conclusion, Ciar\u00e1n's application is borderline due to these major inconsistencies.",
+  "transparency_note": "Ciar\u00e1n would benefit from providing more detailed information about his previous tenancies and clarifying any contradictions in the future.",
+  "action_required": "Request additional documentation to confirm income and tenancy dates",
+  "invite_to_viewing": false
+}

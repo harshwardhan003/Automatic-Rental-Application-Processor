@@ -1,0 +1,61 @@
+{
+  "ref_number": "REF-2026-017",
+  "property_id": "PROP-004",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-017",
+  "folder_name": "REF-2026-017",
+  "applicant_name": "Eoin Murphy",
+  "applicant_email": "eoin.murphy@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.747770",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 4.0,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 4000.0,
+  "authoritative_income": 4000.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 5,
+  "red_flags": [
+    "Lack of relevance and specificity"
+  ],
+  "cover_letter_score": 6,
+  "cover_letter_summary": "While Eoin Murphy's motivation appears somewhat unclear, his employment and relocation reasons suggest some stability. Further assessment is needed to gauge his ability to manage the rent.",
+  "cover_letter_concerns": [
+    "Concerning mention of not earning much"
+  ],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "Valid application with no major inconsistencies identified",
+  "composite_score": 74.5,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 50,
+    "cover_letter_score_normalised": 60,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Eoin Murphy (Ref: REF-2026-017) presents a strong candidate profile for the Dublin2 property, demonstrating sufficient financial stability and personal motivation to secure a \u20ac1000/month rental. While his professional standing may be improving, the lack of relevance in his current activities is cause for cautious optimism.",
+  "detailed_reasoning": "The highest score in financial stability indicates Eoin's ability to maintain a comfortable lifestyle while covering rent expenses four times over. His motivation to improve his situation, albeit with some reservations about not earning much, shows potential for a positive tenancy experience. However, the lack of specificity in his professional endeavors raises concerns about the long-term viability of this arrangement. Nonetheless, Eoin's low risk profile and excellent verification integrity suggest he is truthful and reliable.",
+  "transparency_note": "We would discuss ways to increase job prospects or diversify income streams with Eoin, focusing on addressing the lack of relevance in his professional activities.",
+  "action_required": "Invite for an informal discussion about career development opportunities",
+  "invite_to_viewing": true
+}

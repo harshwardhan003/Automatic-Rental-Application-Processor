@@ -1,0 +1,129 @@
+{
+  "ref_number": "REF-2026-018",
+  "property_id": "PROP-002",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-018",
+  "folder_name": "REF-2026-018",
+  "applicant_name": "Brendan Gleeson",
+  "applicant_email": "brendan.gleeson@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.758808",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 7.81,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 12000.0,
+  "authoritative_income": 25000.0,
+  "income_discrepancy": {
+    "declared": 12000.0,
+    "payslip": 25000.0,
+    "difference": 13000.0,
+    "difference_pct": 108.3
+  },
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 5,
+  "red_flags": [
+    "Lack of specific information",
+    "No enthusiasm or endorsement"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Brendan Gleeson's cover letter presents an average, stable tenant. While it lacks specifics about the property or area, his employment situation suggests a long-term commitment.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "High",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "High",
+      "documents_involved": [
+        "APPLICATION FORM DATA",
+        "PROOF OF INCOME DATA"
+      ],
+      "description": "Monthly gross income on application form (12000) differs significantly from gross monthly income on proof of income document (25000).",
+      "values_compared": {
+        "monthly_gross_income": [
+          12000,
+          25000
+        ]
+      },
+      "recommendation": "Requires clarification at viewing and further verification."
+    },
+    {
+      "finding_id": 2,
+      "risk_level": "Medium",
+      "documents_involved": [
+        "APPLICATION FORM DATA",
+        "EMPLOYER REFERENCE CONTENT"
+      ],
+      "description": "Annual salary on application form (no value provided) differs from annual income confirmed by employer reference (144000).",
+      "values_compared": {
+        "salaried": [
+          "N/A",
+          144000
+        ]
+      },
+      "recommendation": "Requests validation of annual income using multiple sources."
+    },
+    {
+      "finding_id": 3,
+      "risk_level": "Low",
+      "documents_involved": [
+        "LANDLORD REFERENCE CONTENT"
+      ],
+      "description": "Previous tenancy dates not explicitly stated, but could be a minor administrative error.",
+      "values_compared": {},
+      "recommendation": "May require additional information to clarify previous tenancy details."
+    }
+  ],
+  "inconsistency_summary": "Multiple significant inconsistencies found. Recommends further verification of income and employment details.",
+  "composite_score": 70.5,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 50,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 40
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 10.42x. (Base Score: 70.5)"
+    },
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 13.89x. (Base Score: 70.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 25.00x. (Base Score: 70.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 25.00x. (Base Score: 70.5)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Brendan Gleeson presents as a strong candidate, offering high financial stability and promising personal motivation. However, inconsistencies in his professional standing, tenancy history, and verification integrity raise concerns. Nevertheless, with careful clarification and validation of his income and employment, he has the potential to become an excellent tenant.",
+  "detailed_reasoning": "Brendan's financial stability is impressive, with a 7.81x rent coverage score. However, his professional standing and tenancy history suffer from a lack of specific information, indicating gaps in his documentation or memory. Additionally, the Verification Integrity Score indicates high risk due to three red flags: income discrepancies, unclear employment details, and a potentially inconclusive landlord reference. While these concerns are significant, they may be addressed through further verification and clarification at viewing.",
+  "transparency_note": "While Brendan's initial submission lacked enthusiasm or endorsements from previous landlords, his personal motivation suggests he is driven by good intentions. As such, inviting him to viewing with clear requirements for income validation and employment confirmation may reveal a more promising candidate.",
+  "action_required": "Request payslip evidence for the last 3-6 months to clarify declared income, invite to viewing for additional verification, and conduct a thorough tenant screening process to address outstanding concerns.",
+  "invite_to_viewing": true
+}

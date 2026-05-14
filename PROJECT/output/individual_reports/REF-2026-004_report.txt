@@ -1,0 +1,27 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-004
+Applicant: Emma Walsh
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 68.5/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 40
+  landlord_ref_score_normalised: 40
+  cover_letter_score_normalised: 70
+  doc_completeness_score: 100
+  inconsistency_base_score: 60
+
+AI SUMMARY:
+Emma Walsh appears to be a strong candidate, demonstrating excellent financial stability and motivation. However, the discrepancy in reported income and lack of specific details in her application raise concerns that must be addressed. To confirm her eligibility, I recommend verifying employment details and income.
+
+ACTION REQUIRED: Verify employment details and income
+
+RED FLAGS:
+  [!] Lack of specific details
+  [!] No endorsement or recommendation
+  [!] template-like language
+  [!] lacks verifiable detail

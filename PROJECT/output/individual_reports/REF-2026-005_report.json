@@ -1,0 +1,79 @@
+{
+  "ref_number": "REF-2026-005",
+  "property_id": "PROP-004",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-005",
+  "folder_name": "REF-2026-005",
+  "applicant_name": "Liam Brennan",
+  "applicant_email": "liam.brennan@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.595402",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 5.5,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 5500.0,
+  "authoritative_income": 5500.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 2,
+  "landlord_ref_score": 5,
+  "red_flags": [
+    "Liam is currently on a performance improvement plan",
+    "Contract review next month implies uncertainty about their standing",
+    "Lack of enthusiasm or glowing endorsement",
+    "No mention of tenancy-relevant qualities"
+  ],
+  "cover_letter_score": 7,
+  "cover_letter_summary": "A straightforward yet somewhat generic introduction, but Liam indicates a clear interest in the property and conveys confidence as a tenant. With stable employment and single occupancy, his application seems legitimate.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "Low",
+      "documents_involved": [
+        "Application Form Data"
+      ],
+      "description": "Employment contract under review next month",
+      "values_compared": {},
+      "recommendation": "Verification needed to confirm employment status"
+    }
+  ],
+  "inconsistency_summary": "Minimal inconsistencies found; further verification recommended for employment contract",
+  "composite_score": 72.0,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 20,
+    "landlord_ref_score_normalised": 50,
+    "cover_letter_score_normalised": 70,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.06x. (Base Score: 72.0)"
+    }
+  ],
+  "recommendation": "Borderline",
+  "ai_summary": "Liam Brennan's application is marked by a mixed bag of strengths and concerns. Despite an impressive financial stability score, professional doubts linger due to his current performance improvement plan and lukewarm endorsement from previous employers. Tenancy history, while decent, is brought down by a lack of glowing testimonials.",
+  "detailed_reasoning": "The red flags are clear: Liam's employment contract review next month implies uncertainty about his standing, and the lack of enthusiasm or glowing endorsements raises questions about his tenancy-relevant qualities. His current performance improvement plan further complicates assessments. While his financial stability is impressive, this alone cannot offset the concerns surrounding his professional standing and motivation. Additionally, a lower score for tenancy history due to limited testimonials further erodes confidence.",
+  "transparency_note": "Liam's application benefits from his strong financials but can be improved by providing more concrete endorsements from previous employers.",
+  "action_required": "Request clarification on employment contract review outcome",
+  "invite_to_viewing": true
+}

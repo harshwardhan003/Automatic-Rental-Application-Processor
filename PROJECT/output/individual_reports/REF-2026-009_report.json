@@ -1,0 +1,75 @@
+{
+  "ref_number": "REF-2026-009",
+  "property_id": "PROP-001",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-009",
+  "folder_name": "REF-2026-009",
+  "applicant_name": "Sin\u00e9ad Connolly",
+  "applicant_email": "sin\u00e9ad.connolly@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.652270",
+  "status": "Eligible - Income Flagged",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 2.83,
+  "income_score": 56,
+  "income_status": "Income - Borderline (Flagged)",
+  "declared_income": 6800.0,
+  "authoritative_income": 6800.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 7,
+  "red_flags": [
+    "Permanence of position may not be sufficient to ensure consistency in rental payments"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Overall, Sin\u00e9ad Connolly's cover letter presents as motivated and genuinely interested in the property. Her background in stable employment at Global Solutions further reinforces her stability as a tenant.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "No inconsistencies found",
+  "composite_score": 71.5,
+  "score_breakdown": {
+    "income_score": 56,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.78x. (Base Score: 71.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.80x. (Base Score: 71.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.80x. (Base Score: 71.5)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Sin\u00e9ad Connolly presents as a solid prospect for the property at 14 Charleston Road, Ranelagh. Despite being slightly below the ideal financial stability threshold of 3x rent coverage, her composite score is elevated by impressive tenancy history and personal motivation scores. However, the permanence of position in her job market may not guarantee consistent rental payments.",
+  "detailed_reasoning": "Based on all available data, Sin\u00e9ad's financial profile raises some concerns. Although she meets the minimum 2x rent coverage requirement, her income could be further diversified to ensure better stability. On a positive note, her employment history and landlord reference indicate a responsible tenant with minimal issues. This is reinforced by her high personal motivation score, suggesting a strong commitment to maintaining this tenancy. The only flag is the potential uncertainty surrounding her job security, which may impact rental payments in the future.",
+  "transparency_note": "Recommendation for improvement: Consider exploring alternative income streams or building an emergency fund to enhance financial stability.",
+  "action_required": "Invite to view the property",
+  "invite_to_viewing": true
+}

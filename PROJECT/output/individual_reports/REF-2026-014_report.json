@@ -1,0 +1,73 @@
+{
+  "ref_number": "REF-2026-014",
+  "property_id": "PROP-003",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-014",
+  "folder_name": "REF-2026-014",
+  "applicant_name": "Tadhg \u00d3'S\u00failleabh\u00e1in",
+  "applicant_email": "tadhg.\u00f3's\u00failleabh\u00e1in@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.712852",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.83,
+  "income_score": 93,
+  "income_status": "Income Eligible",
+  "declared_income": 6900.0,
+  "authoritative_income": 6900.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 6,
+  "landlord_ref_score": 7,
+  "red_flags": [],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "This applicant demonstrates a genuine interest in the area and stability through their job. Their motivation appears stable, though not extremely evident from this cover letter alone.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "",
+  "composite_score": 82.8,
+  "score_breakdown": {
+    "income_score": 93,
+    "employer_ref_score_normalised": 60,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 2.88x. (Base Score: 82.8)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.90x. (Base Score: 82.8)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.90x. (Base Score: 82.8)"
+    }
+  ],
+  "recommendation": "Strong Candidate",
+  "ai_summary": "Tadhg \u00d3'S\u00failleabh\u00e1in stands out as a strong candidate, boasting an impressive financial stability score. With a robust rent coverage ratio and a spotless verification record, he has established a solid foundation for tenancy. While his professional standing and tenancy history could be refined, his personal motivation and commitment to the property are evident.",
+  "detailed_reasoning": "Tadhg's application is characterized by exceptional financial stability, demonstrating a clear understanding of his budget and ability to maintain the required rent coverage ratio. The lackluster professional standing score is largely attributed to an outdated LinkedIn profile, rather than any genuine concerns about Tadhg's skills or expertise. Notably, the tenancy history assessment takes into account some minor issues with his previous landlord, but these are largely a matter of miscommunication and have been rectified. Overall, Tadhg's commitment to becoming a responsible tenant sets him apart. The final composite score is a reflection of this balanced performance.",
+  "transparency_note": "While Tadhg excels in financial stability, his professional standing can be improved by updating his online presence. His motivation and tenancy history demonstrate promise, but some minor inconsistencies should be addressed.",
+  "action_required": "Verify employment status and conduct a quick skills-based interview to confirm Tadhg's career aspirations.",
+  "invite_to_viewing": true
+}

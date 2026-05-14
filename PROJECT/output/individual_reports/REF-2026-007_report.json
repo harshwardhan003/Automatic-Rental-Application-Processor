@@ -1,0 +1,85 @@
+{
+  "ref_number": "REF-2026-007",
+  "property_id": "PROP-003",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-007",
+  "folder_name": "REF-2026-007",
+  "applicant_name": "Claire Murphy",
+  "applicant_email": "claire.murphy@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.621073",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.33,
+  "income_score": 73,
+  "income_status": "Income Eligible",
+  "declared_income": 6000.0,
+  "authoritative_income": 6000.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 4,
+  "red_flags": [
+    "Lack of additional insights or recommendations",
+    "Notable omissions about Claire's behavior, character, or tenancy experience"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "This cover letter appears to convey a genuine interest in the specific property. However, it would benefit from more details about the applicant's reasons for relocating and plans for their stay.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "Low",
+      "documents_involved": [
+        "application form"
+      ],
+      "description": "Numerical inconsistency in monthly gross income between application form (6000) and employer reference (72000 annually, equivalent to approximately 6000/month).",
+      "values_compared": {
+        "Application Form": "6000",
+        "Employer Reference": "6000"
+      },
+      "recommendation": "Clarify the discrepancy"
+    }
+  ],
+  "inconsistency_summary": "No significant inconsistencies found.",
+  "composite_score": 71.2,
+  "score_breakdown": {
+    "income_score": 73,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 40,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.00x. (Base Score: 71.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.00x. (Base Score: 71.2)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Claire Murphy presents as a financially stable candidate although some inconsistencies arise regarding her monthly gross income. A lack of deeper insights into her motivations and the omission of critical tenancy information from previous rentals raise concerns. Meanwhile, her employer reference provides reassuring testimony to her professionalism. Overall, she demonstrates sufficient standing for further consideration.",
+  "detailed_reasoning": "Claire's 3.33x rent coverage in her financial statement is a strong indicator of stability, earning her a score of 73/100. However, the inconsistent figures regarding her monthly gross income (6000 vs. 6000) raise doubts about her attention to detail and potential difficulties in managing her finances effectively. The lack of additional insights or recommendations from Claire's references leaves me unable to fully understand her motivations for moving into the property. Furthermore, notable omissions about her behavior, character, and tenancy experience diminish her overall standing. Nevertheless, her employer reference attests to Claire's professionalism, bolstered by an 8/10 score in personal motivation.",
+  "transparency_note": "I am willing to invite Claire Murphy for a viewing, as she demonstrates some strength despite the noted reservations.",
+  "action_required": "Request additional information on monthly income and clarify any remaining inconsistencies",
+  "invite_to_viewing": true
+}

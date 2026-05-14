@@ -1,0 +1,75 @@
+{
+  "ref_number": "REF-2026-015",
+  "property_id": "PROP-001",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-015",
+  "folder_name": "REF-2026-015",
+  "applicant_name": "Orlaith N\u00ed Cheallaigh",
+  "applicant_email": "orlaith.n\u00ed.cheallaigh@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.724147",
+  "status": "Eligible - Income Flagged",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 2.96,
+  "income_score": 59,
+  "income_status": "Income - Borderline (Flagged)",
+  "declared_income": 7100.0,
+  "authoritative_income": 7100.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 6,
+  "landlord_ref_score": 7,
+  "red_flags": [
+    "permanent high growth potential, may be emphasizing job security over Orlaith's personal traits"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "The applicant demonstrates a strong motivation to rent Charleston Road, citing its proximity to their preferred neighborhood. Their stable employment and established residency in Ranelagh provide stability indicators for this tenancy.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "Consistent application with all documents verifying Orlaith's details",
+  "composite_score": 74.2,
+  "score_breakdown": {
+    "income_score": 59,
+    "employer_ref_score_normalised": 60,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.94x. (Base Score: 74.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 7.10x. (Base Score: 74.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 7.10x. (Base Score: 74.2)"
+    }
+  ],
+  "recommendation": "Strong Candidate",
+  "ai_summary": "Orlaith N\u00ed Cheallaigh presents a compelling package, bolstered by solid financial stability, a decent professional standing, and an excellent tenancy history. However, her motivations may be driven more by job security than personal characteristics, which raises some concerns. Upon reviewing the evidence, it's clear that Orlaith is an attractive candidate who requires further exploration.",
+  "detailed_reasoning": "The composite score of 74.2/100 indicates a strong applicant, but closer inspection reveals that financial stability and professional standing are not as stellar as initially suggested. The high growth potential in her industry may be driving her emphasis on job security over personal traits, which could impact her adaptability if circumstances change. This nuance warrants further investigation to ensure Orlaith is the best fit for the property.",
+  "transparency_note": "To enhance her application, Orlaith should focus on developing a stronger understanding of her non-work-related motivations and explore ways to diversify her interests or skills.",
+  "action_required": "Invite Orlaith to a viewing at 14 Charleston Road, Ranelagh, scheduled for [insert date].",
+  "invite_to_viewing": true
+}

@@ -1,0 +1,26 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-016
+Applicant: Siobhán O'Connor
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 68.5/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 40
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 40
+
+AI SUMMARY:
+Siobhán O'Connor's application presents a mixed bag. While financial stability is exceptional, significant concerns arise from inconsistencies in reported income. This, coupled with a lack of supporting tenancy-relevant qualities and mediocre professional standing, creates uncertainty about her ability to successfully occupy the property.
+
+ACTION REQUIRED: Schedule an additional verification call to clarify income discrepancies and assess O'Connor's understanding of the required tenancy qualities.
+
+RED FLAGS:
+  [!] Vagueness in supporting a positive rent application; no mention of tenancy-relevant qualities
+  [!] Lack of specific positive qualities mentioned
+  [!] Only mentions timely rent payment

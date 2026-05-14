@@ -1,0 +1,81 @@
+{
+  "ref_number": "REF-2026-020",
+  "property_id": "PROP-001",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-020",
+  "folder_name": "REF-2026-020",
+  "applicant_name": "Paul Mescal",
+  "applicant_email": "paul.mescal@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.783135",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.04,
+  "income_score": 61,
+  "income_status": "Income Eligible",
+  "declared_income": 7300.0,
+  "authoritative_income": 7300.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 7,
+  "landlord_ref_score": 4,
+  "red_flags": [
+    "No direct address of tenancy-relevant qualities",
+    "Lack of enthusiasm",
+    "Minimal information provided",
+    "No indication of character or reliability"
+  ],
+  "cover_letter_score": 6,
+  "cover_letter_summary": "Paul Mescal's cover letter raises concerns about his motivation and commitment to the property. While he appears employable, his lack of specific reasons for moving and interest in this particular property undermines his case.",
+  "cover_letter_concerns": [
+    "Urgency to move ASAP",
+    "No specific reasons given for interest in this property"
+  ],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "No significant inconsistencies found",
+  "composite_score": 69.2,
+  "score_breakdown": {
+    "income_score": 61,
+    "employer_ref_score_normalised": 70,
+    "landlord_ref_score_normalised": 40,
+    "cover_letter_score_normalised": 60,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 4.06x. (Base Score: 69.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 7.30x. (Base Score: 69.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 7.30x. (Base Score: 69.2)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Paul Mescal presents as a potentially reliable tenant, despite some concerning red flags. Although he shows moderate financial stability and no apparent issues with verification integrity, his tenancy history is mixed, and personal motivation seems somewhat disconnected from the property's features. Ultimately, his application merits further investigation.",
+  "detailed_reasoning": "Paul Mescal's application is marred by a lack of enthusiasm and minimal information provided. The urgency to move ASAP without specifying reasons for interest in this property creates motivational concerns. However, his financials demonstrate a respectable 3.04x rent coverage, alleviating some potential risks. While the tenancy history score is low (4/10), no glaring issues or red flags emerge, and professional standing receives a relatively strong score of 7/10. Verification integrity poses no apparent risks. To advance this application, further clarification on his motivations and a more detailed look at his tenancy history would be beneficial.",
+  "transparency_note": "Mr. Mescal's greatest weakness lies in his initial hesitation to fully engage with the property's features or demonstrate conviction for its suitability. Emphasizing this aspect, he might work to better articulate his interests and motivation for choosing 14 Charleston Road.",
+  "action_required": "Invite him for a viewing to further discuss his motivation and tenancy history",
+  "invite_to_viewing": true
+}

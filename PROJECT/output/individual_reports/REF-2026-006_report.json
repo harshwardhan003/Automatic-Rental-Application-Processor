@@ -1,0 +1,90 @@
+{
+  "ref_number": "REF-2026-006",
+  "property_id": "PROP-001",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-006",
+  "folder_name": "REF-2026-006",
+  "applicant_name": "Se\u00e1n Doyle",
+  "applicant_email": "se\u00e1n.doyle@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.608541",
+  "status": "Eligible - Income Flagged",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 2.92,
+  "income_score": 58,
+  "income_status": "Income - Borderline (Flagged)",
+  "declared_income": 7000.0,
+  "authoritative_income": 7000.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 5,
+  "red_flags": [
+    "Lack of meaningful information provided",
+    "Noticeable omission of qualities that make an applicant a good tenant"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Overall, Se\u00e1n Doyle's cover letter demonstrates a decent level of interest and stability. While it may not be an exceptional piece of writing, it appears genuine in its claims.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "High",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "High",
+      "documents_involved": [
+        "APPLICATION FORM DATA",
+        "PROOF OF INCOME DATA"
+      ],
+      "description": "Numerical inconsistency between monthly income figures (> \u20ac200/month)",
+      "values_compared": {
+        "monthly_gross_income": "7000"
+      },
+      "recommendation": "Request proof of actual income to confirm discrepancy"
+    },
+    {
+      "finding_id": 2,
+      "risk_level": "High",
+      "documents_involved": [
+        "EMPLOYER REFERENCE CONTENT",
+        "APPLICATION FORM DATA"
+      ],
+      "description": "Inconsistency in annual income figures (\u20ac60,000 vs \u20ac84,000)",
+      "values_compared": {
+        "annual_income": [
+          "60000",
+          "84000"
+        ]
+      },
+      "recommendation": "Verify employer's statement and request clarification on discrepancy"
+    }
+  ],
+  "inconsistency_summary": "Se\u00e1n Doyle has demonstrated significant inconsistencies in income figures across multiple documents. Further verification is required to determine the nature of this discrepancy.",
+  "composite_score": 58.0,
+  "score_breakdown": {
+    "income_score": 58,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 50,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 40
+  },
+  "alternative_properties": [],
+  "recommendation": "Borderline",
+  "ai_summary": "Se\u00e1n Doyle (Ref: REF-2026-006) presents a mixed application for the property at 14 Charleston Road, Ranelagh. While his financial stability scores moderately well at 2.92x rent coverage, red flags and logical inconsistencies reveal concerns about his motivations and credibility. A deep dive into the evidence log highlights notable omissions, contradictions, and discrepancies that prevent us from fully endorsing him as a strong candidate.",
+  "detailed_reasoning": "Se\u00e1n's application lacks substantial details and notable qualities expected from ideal tenants. The verification integrity issues are alarming, particularly the high-risk findings regarding income inconsistencies between his application form data and employer reference content. Despite an acceptable financial stability score, these concerns overshadow any potential strengths. A lack of enthusiasm in the landlord reference and no explicit mention of pet-friendliness also raise questions about his commitment to maintaining the property.",
+  "transparency_note": "Recommendation: 'Borderline' due to mixed performance. Next steps will focus on clarifying income discrepancies and verifying employer's claims before deciding on a final outcome.",
+  "action_required": "Request proof of actual income, clarification on annual income discrepancy from employer's statement",
+  "invite_to_viewing": false
+}

@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-019
+Applicant: Saoirse Ronan
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 77.8/100
+RECOMMENDATION: Strong Candidate
+
+SCORE BREAKDOWN:
+  income_score: 81
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Saoirse Ronan is a well-qualified candidate who has left a lasting impression on our review process. While financially stable, with an impressive 3.54x rent coverage, her professional standing is somewhat overshadowed by the lack of enthusiasm in her landlord reference. Additionally, her tenancy history is solid but doesn't convey exceptional merit. Nevertheless, she showcases genuine personal motivation and has zero red flags or verification issues.
+
+ACTION REQUIRED: None
+
+RED FLAGS:
+  [!] No specific red flags found
+  [!] Noticeable lack of detail about landlord-tenant communication and common issues

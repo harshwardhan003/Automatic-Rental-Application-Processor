@@ -1,0 +1,105 @@
+{
+  "ref_number": "REF-2026-016",
+  "property_id": "PROP-003",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-016",
+  "folder_name": "REF-2026-016",
+  "applicant_name": "Siobh\u00e1n O'Connor",
+  "applicant_email": "siobh\u00e1n.o'connor@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.735161",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 5.28,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 9500.0,
+  "authoritative_income": 9500.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 5,
+  "red_flags": [
+    "Vagueness in supporting a positive rent application; no mention of tenancy-relevant qualities",
+    "Lack of specific positive qualities mentioned",
+    "Only mentions timely rent payment"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "The applicant appears well-motivated to rent this property, with a strong interest in securing a long-term residence. Their offer to pay the full year upfront demonstrates financial stability, further enhancing their suitability as tenants.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "High",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "High",
+      "documents_involved": [
+        "application form",
+        "proof of income"
+      ],
+      "description": "Monthly gross income is stated as \u20ac9500 in the application form and proof of income, but according to the employer reference content, O'Connor earns \u20ac114000 annually.",
+      "values_compared": {
+        "monthly_income": [
+          {
+            "value": "\u20ac9500",
+            "source": "application form and proof of income"
+          },
+          {
+            "value": "\u20ac114000 (annually)",
+            "source": "employer reference"
+          }
+        ]
+      },
+      "recommendation": "This discrepancy suggests that O'Connor may be intentionally misrepresenting their income; further clarification is necessary to ensure the agency's interests are protected."
+    }
+  ],
+  "inconsistency_summary": "One significant inconsistency was found regarding the applicant's monthly gross income, which raises concerns about the potential for intentional misrepresentation.",
+  "composite_score": 68.5,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 50,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 40
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.96x. (Base Score: 68.5)"
+    },
+    {
+      "property_id": "PROP-002",
+      "address": "Apartment 4, Grand Canal Dock",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 2.97x. (Base Score: 68.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 9.50x. (Base Score: 68.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 9.50x. (Base Score: 68.5)"
+    }
+  ],
+  "recommendation": "Borderline",
+  "ai_summary": "Siobh\u00e1n O'Connor's application presents a mixed bag. While financial stability is exceptional, significant concerns arise from inconsistencies in reported income. This, coupled with a lack of supporting tenancy-relevant qualities and mediocre professional standing, creates uncertainty about her ability to successfully occupy the property.",
+  "detailed_reasoning": "The score is 68.5 due to inconsistencies in reported income, as evidenced by the 'Logical Inconsistencies' finding. The high risk score for Verification Integrity also warrants closer scrutiny. Furthermore, the applicant's cover letter and reference letters fail to demonstrate a clear understanding of the required tenancy qualities, potentially indicating insufficient preparation or motivation.",
+  "transparency_note": "The applicant excelled in financial stability but struggled with showcasing tenancy-relevant skills; they should focus on building these aspects for future applications.",
+  "action_required": "Schedule an additional verification call to clarify income discrepancies and assess O'Connor's understanding of the required tenancy qualities.",
+  "invite_to_viewing": false
+}

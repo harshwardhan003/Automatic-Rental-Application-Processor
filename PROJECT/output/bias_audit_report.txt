@@ -1,0 +1,11 @@
+DRAP BIAS AUDIT REPORT
+Conclusion: Minor Concern - Monitor
+
+Summary: While the dataset appears generally fair, the presence of a statistically significant correlation between cover letter word count and final composite score warrants continued monitoring. The absence of a statistically significant difference in scores based on name origin does not raise concerns; however, it is essential to maintain vigilance to ensure equal treatment throughout.
+
+Wordcount Finding: Results show a statistically significant correlation between cover letter word count and final composite score (p-value < 0.05), indicating that applicants with longer cover letters tend to have higher scores.
+Name Origin Finding: While the difference in average scores is notable, the p-value for the comparison between Irish-origin and 'Other' name categories does not suggest a statistically significant relationship (p-value = 0.2).
+
+Recommendations:
+ - Monitor scoring metrics and adjust prompts as needed to ensure equal treatment across all applicant pools.
+ - Consider adding training data that reflects diverse formats and characteristics representative of the target population.

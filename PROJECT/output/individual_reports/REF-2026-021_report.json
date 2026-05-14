@@ -1,0 +1,78 @@
+{
+  "ref_number": "REF-2026-021",
+  "property_id": "PROP-003",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-021",
+  "folder_name": "REF-2026-021",
+  "applicant_name": "Barry Keoghan",
+  "applicant_email": "barry.keoghan@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.795448",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.83,
+  "income_score": 93,
+  "income_status": "Income Eligible",
+  "declared_income": 6900.0,
+  "authoritative_income": 6900.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 4,
+  "red_flags": [
+    "Lack of specific information",
+    "No enthusiasm or endorsement",
+    "noise complaints",
+    "required professional cleaning"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "This applicant appears very motivated to rent this property, with a strong background of being a good tenant. No concerning red flags are present, making them a suitable candidate.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "",
+  "composite_score": 74.2,
+  "score_breakdown": {
+    "income_score": 93,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 40,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 2.88x. (Base Score: 74.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.90x. (Base Score: 74.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.90x. (Base Score: 74.2)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Barry Keoghan poses a promising candidate for the property at 7 Rathmines Road Lower, despite some moderate concerns. A solid financial standing and strong personal motivation anchor his application. However, the lack of enthusiastic endorsement from his professional network and a mixed tenancy history warrant further scrutiny.",
+  "detailed_reasoning": "The applicant's financial stability is a significant strength, with a coverage ratio exceeding 3x rent. This suggests he is well-equipped to manage the monthly payments. His personal motivation also shines through, demonstrating a clear desire for this specific property. However, a professional standing score of only 4/10 reveals that some uncertainty exists regarding his reputation and professionalism in previous tenancy arrangements. Furthermore, there are minor red flags surrounding noise complaints and required professional cleaning, though these issues seem manageable. Ultimately, while Barry's overall profile is respectable, it is crucial to balance these positives with the identified areas of concern.",
+  "transparency_note": "Barry lacks a strong network endorsement, which may impact his ability to foster a positive tenancy experience. Conversely, he demonstrates a high level of personal motivation and financial stability.",
+  "action_required": "Request further professional verification from at least two professional contacts",
+  "invite_to_viewing": true
+}

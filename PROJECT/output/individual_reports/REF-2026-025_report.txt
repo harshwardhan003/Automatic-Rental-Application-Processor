@@ -1,0 +1,26 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-025
+Applicant: Domhnall Gleeson
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 65.8/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 77
+  employer_ref_score_normalised: 40
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 60
+
+AI SUMMARY:
+Domhnall Gleeson presents a mixed profile. While he demonstrates adequate financial stability and a decent personal motivation, concerns arise from his professional standing, tenancy history, and verification integrity. Specifically, his employer reference lacks enthusiasm, and inconsistencies are found in his income reports, highlighting the need for clarification.
+
+ACTION REQUIRED: Request clarification from applicant to resolve income inconsistency; verify annual income with applicant and employer before proceeding
+
+RED FLAGS:
+  [!] Lacking specifics,
+  [!] Vagueness
+  [!] Lack of enthusiasm

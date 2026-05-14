@@ -1,0 +1,27 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-020
+Applicant: Paul Mescal
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 69.2/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 61
+  employer_ref_score_normalised: 70
+  landlord_ref_score_normalised: 40
+  cover_letter_score_normalised: 60
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Paul Mescal presents as a potentially reliable tenant, despite some concerning red flags. Although he shows moderate financial stability and no apparent issues with verification integrity, his tenancy history is mixed, and personal motivation seems somewhat disconnected from the property's features. Ultimately, his application merits further investigation.
+
+ACTION REQUIRED: Invite him for a viewing to further discuss his motivation and tenancy history
+
+RED FLAGS:
+  [!] No direct address of tenancy-relevant qualities
+  [!] Lack of enthusiasm
+  [!] Minimal information provided
+  [!] No indication of character or reliability

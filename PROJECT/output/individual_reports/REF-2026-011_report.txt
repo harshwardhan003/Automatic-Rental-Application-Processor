@@ -1,0 +1,26 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-011
+Applicant: Roisín Ní Mhuirí
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 68.5/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 40
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 40
+
+AI SUMMARY:
+Roísín Ní Mhuirí's application exhibits both promise and caution. Although their financial stability is robust, with a score of 100/100, other aspects of their profile raise concern. A high risk of verification integrity issues, combined with motivational inconsistencies and a lack of tenancy-relevant details, lead us to classify them as borderline candidates.
+
+ACTION REQUIRED: Request additional documentation clarifying monthly gross income and request a detailed tenancy history report from at least one previous landlord
+
+RED FLAGS:
+  [!] Lack of relevant detail
+  [!] No specific tenant-relevant qualities mentioned
+  [!] Notable omissions: no mention of tenancy-relevant qualities, apartment condition, or any negative behavior

@@ -1,0 +1,162 @@
+timestamp,ref_number,recipient_email,email_type,status,subject
+2026-04-29T20:35:29.966335,REF-2026-001,niamh.fitzgerald@example.com,Viewing Invitation,Sent,Application Ref REF-2026-001 — Invitation to Viewing ✓
+2026-04-29T20:35:29.967712,REF-2026-003,aoife.kelly@example.com,Viewing Invitation,Sent,Application Ref REF-2026-003 — Invitation to Viewing ✓
+2026-04-29T20:35:29.968676,REF-2026-006,seán.doyle@example.com,Viewing Invitation,Sent,Application Ref REF-2026-006 — Invitation to Viewing ✓
+2026-04-29T20:35:29.969886,REF-2026-009,sinéad.connolly@example.com,Viewing Invitation,Sent,Application Ref REF-2026-009 — Invitation to Viewing ✓
+2026-04-29T20:35:29.970526,REF-2026-011,roisín.ní.mhuirí@example.com,Viewing Invitation,Sent,Application Ref REF-2026-011 — Invitation to Viewing ✓
+2026-04-29T20:35:29.971468,REF-2026-012,conor.macgiolla@example.com,Viewing Invitation,Sent,Application Ref REF-2026-012 — Invitation to Viewing ✓
+2026-04-29T20:35:29.972338,REF-2026-013,méabh.de.búrca@example.com,Viewing Invitation,Sent,Application Ref REF-2026-013 — Invitation to Viewing ✓
+2026-04-29T20:35:29.972834,REF-2026-014,tadhg.ó'súilleabháin@example.com,Viewing Invitation,Sent,Application Ref REF-2026-014 — Invitation to Viewing ✓
+2026-04-29T20:35:29.973497,REF-2026-015,orlaith.ní.cheallaigh@example.com,Viewing Invitation,Sent,Application Ref REF-2026-015 — Invitation to Viewing ✓
+2026-04-29T20:35:29.973902,REF-2026-016,siobhán.o'connor@example.com,Viewing Invitation,Sent,Application Ref REF-2026-016 — Invitation to Viewing ✓
+2026-04-29T20:35:29.974365,REF-2026-018,brendan.gleeson@example.com,Viewing Invitation,Sent,Application Ref REF-2026-018 — Invitation to Viewing ✓
+2026-04-29T20:35:29.974884,REF-2026-019,saoirse.ronan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-019 — Invitation to Viewing ✓
+2026-04-29T20:35:29.975719,REF-2026-020,paul.mescal@example.com,AI Rejection,Sent,Application Ref REF-2026-020 — Outcome: Unsuccessful
+2026-04-29T20:35:29.976316,REF-2026-021,barry.keoghan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-021 — Invitation to Viewing ✓
+2026-04-29T20:35:29.976921,REF-2026-022,andrew.scott@example.com,Viewing Invitation,Sent,Application Ref REF-2026-022 — Invitation to Viewing ✓
+2026-04-29T20:35:29.977526,REF-2026-023,cillian.murphy@example.com,Viewing Invitation,Sent,Application Ref REF-2026-023 — Invitation to Viewing ✓
+2026-04-29T20:35:29.978194,REF-2026-024,ruth.negga@example.com,AI Rejection,Sent,Application Ref REF-2026-024 — Outcome: Unsuccessful
+2026-04-29T20:35:29.978726,REF-2026-027,fiona.shaw@example.com,Viewing Invitation,Sent,Application Ref REF-2026-027 — Invitation to Viewing ✓
+2026-04-29T20:35:29.979186,REF-2026-029,jamie.dornan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-029 — Invitation to Viewing ✓
+2026-04-29T20:35:29.979676,REF-2026-030,caitriona.balfe@example.com,Viewing Invitation,Sent,Application Ref REF-2026-030 — Invitation to Viewing ✓
+2026-04-29T20:35:31.661660,REF-2026-008,darragh.o'brien@example.com,Missing Documents,Sent,Application Ref REF-2026-008 — Action Required: Missing Documents
+2026-04-29T20:35:33.616753,REF-2026-026,kerry.condon@example.com,Missing Documents,Sent,Application Ref REF-2026-026 — Action Required: Missing Documents
+2026-04-29T20:35:34.164412,REF-2026-001,niamh.fitzgerald@example.com,Income Rejection,Sent,Application Ref REF-2026-001 — Outcome: Unsuccessful
+2026-04-29T20:35:34.236639,REF-2026-002,ciarán.ryan@example.com,Income Rejection,Sent,Application Ref REF-2026-002 — Outcome: Unsuccessful
+2026-04-29T20:35:34.305219,REF-2026-003,aoife.kelly@example.com,Income Rejection,Sent,Application Ref REF-2026-003 — Outcome: Unsuccessful
+2026-04-29T20:35:34.379415,REF-2026-004,emma.walsh@example.com,Income Rejection,Sent,Application Ref REF-2026-004 — Outcome: Unsuccessful
+2026-04-29T20:35:34.455816,REF-2026-005,liam.brennan@example.com,Income Rejection,Sent,Application Ref REF-2026-005 — Outcome: Unsuccessful
+2026-04-29T20:35:34.522979,REF-2026-006,seán.doyle@example.com,Income Rejection,Sent,Application Ref REF-2026-006 — Outcome: Unsuccessful
+2026-04-29T20:35:34.582734,REF-2026-007,claire.murphy@example.com,Income Rejection,Sent,Application Ref REF-2026-007 — Outcome: Unsuccessful
+2026-04-29T20:35:34.641390,REF-2026-009,sinéad.connolly@example.com,Income Rejection,Sent,Application Ref REF-2026-009 — Outcome: Unsuccessful
+2026-04-29T20:35:34.703984,REF-2026-010,patrick.healy@example.com,Income Rejection,Sent,Application Ref REF-2026-010 — Outcome: Unsuccessful
+2026-04-29T20:35:34.768806,REF-2026-011,roisín.ní.mhuirí@example.com,Income Rejection,Sent,Application Ref REF-2026-011 — Outcome: Unsuccessful
+2026-04-29T20:35:34.822452,REF-2026-012,conor.macgiolla@example.com,Income Rejection,Sent,Application Ref REF-2026-012 — Outcome: Unsuccessful
+2026-04-29T20:35:34.876768,REF-2026-013,méabh.de.búrca@example.com,Income Rejection,Sent,Application Ref REF-2026-013 — Outcome: Unsuccessful
+2026-04-29T20:35:34.926520,REF-2026-014,tadhg.ó'súilleabháin@example.com,Income Rejection,Sent,Application Ref REF-2026-014 — Outcome: Unsuccessful
+2026-04-29T20:35:34.983435,REF-2026-015,orlaith.ní.cheallaigh@example.com,Income Rejection,Sent,Application Ref REF-2026-015 — Outcome: Unsuccessful
+2026-04-29T20:35:35.104167,REF-2026-017,eoin.murphy@example.com,Income Rejection,Sent,Application Ref REF-2026-017 — Outcome: Unsuccessful
+2026-04-29T20:35:35.207770,REF-2026-019,saoirse.ronan@example.com,Income Rejection,Sent,Application Ref REF-2026-019 — Outcome: Unsuccessful
+2026-04-29T20:35:35.259342,REF-2026-020,paul.mescal@example.com,Income Rejection,Sent,Application Ref REF-2026-020 — Outcome: Unsuccessful
+2026-04-29T20:35:35.311184,REF-2026-021,barry.keoghan@example.com,Income Rejection,Sent,Application Ref REF-2026-021 — Outcome: Unsuccessful
+2026-04-29T20:35:35.382330,REF-2026-022,andrew.scott@example.com,Income Rejection,Sent,Application Ref REF-2026-022 — Outcome: Unsuccessful
+2026-04-29T20:35:35.509992,REF-2026-024,ruth.negga@example.com,Income Rejection,Sent,Application Ref REF-2026-024 — Outcome: Unsuccessful
+2026-04-29T20:35:35.561399,REF-2026-025,domhnall.gleeson@example.com,Income Rejection,Sent,Application Ref REF-2026-025 — Outcome: Unsuccessful
+2026-04-29T20:35:35.682914,REF-2026-028,colm.meaney@example.com,Income Rejection,Sent,Application Ref REF-2026-028 — Outcome: Unsuccessful
+2026-04-29T20:35:35.836832,REF-2026-030,caitriona.balfe@example.com,Income Rejection,Sent,Application Ref REF-2026-030 — Outcome: Unsuccessful
+2026-04-29T20:41:16.402693,REF-2026-008,darragh.o'brien@example.com,Missing Documents,Sent,Application Ref REF-2026-008 — Action Required: Missing Documents
+2026-04-29T20:41:18.278950,REF-2026-026,kerry.condon@example.com,Missing Documents,Sent,Application Ref REF-2026-026 — Action Required: Missing Documents
+2026-04-29T20:41:18.783752,REF-2026-001,niamh.fitzgerald@example.com,Income Rejection,Sent,Application Ref REF-2026-001 — Outcome: Unsuccessful
+2026-04-29T20:41:18.848157,REF-2026-002,ciarán.ryan@example.com,Income Rejection,Sent,Application Ref REF-2026-002 — Outcome: Unsuccessful
+2026-04-29T20:41:18.919814,REF-2026-003,aoife.kelly@example.com,Income Rejection,Sent,Application Ref REF-2026-003 — Outcome: Unsuccessful
+2026-04-29T20:41:18.981940,REF-2026-004,emma.walsh@example.com,Income Rejection,Sent,Application Ref REF-2026-004 — Outcome: Unsuccessful
+2026-04-29T20:41:19.045299,REF-2026-005,liam.brennan@example.com,Income Rejection,Sent,Application Ref REF-2026-005 — Outcome: Unsuccessful
+2026-04-29T20:41:19.104729,REF-2026-006,seán.doyle@example.com,Income Rejection,Sent,Application Ref REF-2026-006 — Outcome: Unsuccessful
+2026-04-29T20:41:19.160713,REF-2026-007,claire.murphy@example.com,Income Rejection,Sent,Application Ref REF-2026-007 — Outcome: Unsuccessful
+2026-04-29T20:41:19.215754,REF-2026-009,sinéad.connolly@example.com,Income Rejection,Sent,Application Ref REF-2026-009 — Outcome: Unsuccessful
+2026-04-29T20:41:19.275161,REF-2026-010,patrick.healy@example.com,Income Rejection,Sent,Application Ref REF-2026-010 — Outcome: Unsuccessful
+2026-04-29T20:41:19.331060,REF-2026-011,roisín.ní.mhuirí@example.com,Income Rejection,Sent,Application Ref REF-2026-011 — Outcome: Unsuccessful
+2026-04-29T20:41:19.386870,REF-2026-012,conor.macgiolla@example.com,Income Rejection,Sent,Application Ref REF-2026-012 — Outcome: Unsuccessful
+2026-04-29T20:41:19.440098,REF-2026-013,méabh.de.búrca@example.com,Income Rejection,Sent,Application Ref REF-2026-013 — Outcome: Unsuccessful
+2026-04-29T20:41:19.489252,REF-2026-014,tadhg.ó'súilleabháin@example.com,Income Rejection,Sent,Application Ref REF-2026-014 — Outcome: Unsuccessful
+2026-04-29T20:41:19.541729,REF-2026-015,orlaith.ní.cheallaigh@example.com,Income Rejection,Sent,Application Ref REF-2026-015 — Outcome: Unsuccessful
+2026-04-29T20:41:19.637269,REF-2026-017,eoin.murphy@example.com,Income Rejection,Sent,Application Ref REF-2026-017 — Outcome: Unsuccessful
+2026-04-29T20:41:19.747054,REF-2026-019,saoirse.ronan@example.com,Income Rejection,Sent,Application Ref REF-2026-019 — Outcome: Unsuccessful
+2026-04-29T20:41:19.800311,REF-2026-020,paul.mescal@example.com,Income Rejection,Sent,Application Ref REF-2026-020 — Outcome: Unsuccessful
+2026-04-29T20:41:19.863415,REF-2026-021,barry.keoghan@example.com,Income Rejection,Sent,Application Ref REF-2026-021 — Outcome: Unsuccessful
+2026-04-29T20:41:19.920450,REF-2026-022,andrew.scott@example.com,Income Rejection,Sent,Application Ref REF-2026-022 — Outcome: Unsuccessful
+2026-04-29T20:41:20.036459,REF-2026-024,ruth.negga@example.com,Income Rejection,Sent,Application Ref REF-2026-024 — Outcome: Unsuccessful
+2026-04-29T20:41:20.093214,REF-2026-025,domhnall.gleeson@example.com,Income Rejection,Sent,Application Ref REF-2026-025 — Outcome: Unsuccessful
+2026-04-29T20:41:20.210250,REF-2026-028,colm.meaney@example.com,Income Rejection,Sent,Application Ref REF-2026-028 — Outcome: Unsuccessful
+2026-04-29T20:41:20.329616,REF-2026-030,caitriona.balfe@example.com,Income Rejection,Sent,Application Ref REF-2026-030 — Outcome: Unsuccessful
+2026-04-29T20:57:59.514207,REF-2026-008,darragh.o'brien@example.com,Missing Documents,Sent,Application Ref REF-2026-008 — Action Required: Missing Documents
+2026-04-29T20:58:01.457464,REF-2026-026,kerry.condon@example.com,Missing Documents,Sent,Application Ref REF-2026-026 — Action Required: Missing Documents
+2026-04-29T20:58:02.047925,REF-2026-002,ciarán.ryan@example.com,Income Rejection,Sent,Application Ref REF-2026-002 — Outcome: Unsuccessful
+2026-04-29T20:58:02.108506,REF-2026-003,aoife.kelly@example.com,Income Rejection,Sent,Application Ref REF-2026-003 — Outcome: Unsuccessful
+2026-04-29T20:58:02.565312,REF-2026-011,roisín.ní.mhuirí@example.com,Income Rejection,Sent,Application Ref REF-2026-011 — Outcome: Unsuccessful
+2026-04-29T20:58:03.433562,REF-2026-025,domhnall.gleeson@example.com,Income Rejection,Sent,Application Ref REF-2026-025 — Outcome: Unsuccessful
+2026-04-29T21:00:04.524280,REF-2026-001,niamh.fitzgerald@example.com,AI Rejection,Sent,Application Ref REF-2026-001 — Outcome: Unsuccessful
+2026-04-29T21:00:04.524750,REF-2026-004,emma.walsh@example.com,AI Rejection,Sent,Application Ref REF-2026-004 — Outcome: Unsuccessful
+2026-04-29T21:00:04.525144,REF-2026-005,liam.brennan@example.com,AI Rejection,Sent,Application Ref REF-2026-005 — Outcome: Unsuccessful
+2026-04-29T21:00:04.525616,REF-2026-006,seán.doyle@example.com,AI Rejection,Sent,Application Ref REF-2026-006 — Outcome: Unsuccessful
+2026-04-29T21:00:04.525917,REF-2026-007,claire.murphy@example.com,AI Rejection,Sent,Application Ref REF-2026-007 — Outcome: Unsuccessful
+2026-04-29T21:00:04.526327,REF-2026-009,sinéad.connolly@example.com,AI Rejection,Sent,Application Ref REF-2026-009 — Outcome: Unsuccessful
+2026-04-29T21:00:04.526684,REF-2026-010,patrick.healy@example.com,AI Rejection,Sent,Application Ref REF-2026-010 — Outcome: Unsuccessful
+2026-04-29T21:00:04.527070,REF-2026-012,conor.macgiolla@example.com,AI Rejection,Sent,Application Ref REF-2026-012 — Outcome: Unsuccessful
+2026-04-29T21:00:04.527476,REF-2026-013,méabh.de.búrca@example.com,AI Rejection,Sent,Application Ref REF-2026-013 — Outcome: Unsuccessful
+2026-04-29T21:00:04.528054,REF-2026-014,tadhg.ó'súilleabháin@example.com,AI Rejection,Sent,Application Ref REF-2026-014 — Outcome: Unsuccessful
+2026-04-29T21:00:04.528482,REF-2026-015,orlaith.ní.cheallaigh@example.com,AI Rejection,Sent,Application Ref REF-2026-015 — Outcome: Unsuccessful
+2026-04-29T21:00:04.528914,REF-2026-016,siobhán.o'connor@example.com,AI Rejection,Sent,Application Ref REF-2026-016 — Outcome: Unsuccessful
+2026-04-29T21:00:04.529352,REF-2026-017,eoin.murphy@example.com,AI Rejection,Sent,Application Ref REF-2026-017 — Outcome: Unsuccessful
+2026-04-29T21:00:04.529795,REF-2026-018,brendan.gleeson@example.com,AI Rejection,Sent,Application Ref REF-2026-018 — Outcome: Unsuccessful
+2026-04-29T21:00:04.530257,REF-2026-019,saoirse.ronan@example.com,AI Rejection,Sent,Application Ref REF-2026-019 — Outcome: Unsuccessful
+2026-04-29T21:00:04.530693,REF-2026-020,paul.mescal@example.com,AI Rejection,Sent,Application Ref REF-2026-020 — Outcome: Unsuccessful
+2026-04-29T21:00:04.531555,REF-2026-021,barry.keoghan@example.com,AI Rejection,Sent,Application Ref REF-2026-021 — Outcome: Unsuccessful
+2026-04-29T21:00:04.532198,REF-2026-022,andrew.scott@example.com,AI Rejection,Sent,Application Ref REF-2026-022 — Outcome: Unsuccessful
+2026-04-29T21:00:04.532520,REF-2026-023,cillian.murphy@example.com,AI Rejection,Sent,Application Ref REF-2026-023 — Outcome: Unsuccessful
+2026-04-29T21:00:04.532842,REF-2026-024,ruth.negga@example.com,AI Rejection,Sent,Application Ref REF-2026-024 — Outcome: Unsuccessful
+2026-04-29T21:00:04.533208,REF-2026-027,fiona.shaw@example.com,AI Rejection,Sent,Application Ref REF-2026-027 — Outcome: Unsuccessful
+2026-04-29T21:00:04.533627,REF-2026-028,colm.meaney@example.com,AI Rejection,Sent,Application Ref REF-2026-028 — Outcome: Unsuccessful
+2026-04-29T21:00:04.534011,REF-2026-029,jamie.dornan@example.com,AI Rejection,Sent,Application Ref REF-2026-029 — Outcome: Unsuccessful
+2026-04-29T21:00:04.534346,REF-2026-030,caitriona.balfe@example.com,AI Rejection,Sent,Application Ref REF-2026-030 — Outcome: Unsuccessful
+2026-04-29T21:02:19.548760,REF-2026-001,niamh.fitzgerald@example.com,Viewing Invitation,Sent,Application Ref REF-2026-001 — Invitation to Viewing ✓
+2026-04-29T21:04:35.887508,REF-2026-008,darragh.o'brien@example.com,Missing Documents,Sent,Application Ref REF-2026-008 — Action Required: Missing Documents
+2026-04-29T21:04:38.508509,REF-2026-026,kerry.condon@example.com,Missing Documents,Sent,Application Ref REF-2026-026 — Action Required: Missing Documents
+2026-04-29T21:04:40.364102,REF-2026-017,eoin.murphy@example.com,Income Rejection,Sent,Application Ref REF-2026-017 — Outcome: Unsuccessful
+2026-04-29T21:41:10.351979,REF-2026-001,niamh.fitzgerald@example.com,Viewing Invitation,Sent,Application Ref REF-2026-001 — Invitation to Viewing ✓
+2026-04-29T21:41:10.376540,REF-2026-002,ciarán.ryan@example.com,AI Rejection,Sent,Application Ref REF-2026-002 — Outcome: Unsuccessful
+2026-04-29T21:41:10.377336,REF-2026-003,aoife.kelly@example.com,Viewing Invitation,Sent,Application Ref REF-2026-003 — Invitation to Viewing ✓
+2026-04-29T21:41:10.377985,REF-2026-004,emma.walsh@example.com,Viewing Invitation,Sent,Application Ref REF-2026-004 — Invitation to Viewing ✓
+2026-04-29T21:41:10.378597,REF-2026-005,liam.brennan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-005 — Invitation to Viewing ✓
+2026-04-29T21:41:10.379240,REF-2026-006,seán.doyle@example.com,AI Rejection,Sent,Application Ref REF-2026-006 — Outcome: Unsuccessful
+2026-04-29T21:41:10.380064,REF-2026-007,claire.murphy@example.com,AI Rejection,Sent,Application Ref REF-2026-007 — Outcome: Unsuccessful
+2026-04-29T21:41:10.380737,REF-2026-009,sinéad.connolly@example.com,Viewing Invitation,Sent,Application Ref REF-2026-009 — Invitation to Viewing ✓
+2026-04-29T21:41:10.381541,REF-2026-010,patrick.healy@example.com,Viewing Invitation,Sent,Application Ref REF-2026-010 — Invitation to Viewing ✓
+2026-04-29T21:41:10.382844,REF-2026-011,roisín.ní.mhuirí@example.com,Viewing Invitation,Sent,Application Ref REF-2026-011 — Invitation to Viewing ✓
+2026-04-29T21:41:10.383567,REF-2026-012,conor.macgiolla@example.com,Viewing Invitation,Sent,Application Ref REF-2026-012 — Invitation to Viewing ✓
+2026-04-29T21:41:10.384307,REF-2026-013,méabh.de.búrca@example.com,Viewing Invitation,Sent,Application Ref REF-2026-013 — Invitation to Viewing ✓
+2026-04-29T21:41:10.385221,REF-2026-014,tadhg.ó'súilleabháin@example.com,Viewing Invitation,Sent,Application Ref REF-2026-014 — Invitation to Viewing ✓
+2026-04-29T21:41:10.385862,REF-2026-015,orlaith.ní.cheallaigh@example.com,Viewing Invitation,Sent,Application Ref REF-2026-015 — Invitation to Viewing ✓
+2026-04-29T21:41:10.386463,REF-2026-016,siobhán.o'connor@example.com,Viewing Invitation,Sent,Application Ref REF-2026-016 — Invitation to Viewing ✓
+2026-04-29T21:41:10.387202,REF-2026-018,brendan.gleeson@example.com,Viewing Invitation,Sent,Application Ref REF-2026-018 — Invitation to Viewing ✓
+2026-04-29T21:41:10.387935,REF-2026-019,saoirse.ronan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-019 — Invitation to Viewing ✓
+2026-04-29T21:41:10.388598,REF-2026-020,paul.mescal@example.com,Viewing Invitation,Sent,Application Ref REF-2026-020 — Invitation to Viewing ✓
+2026-04-29T21:41:10.390110,REF-2026-021,barry.keoghan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-021 — Invitation to Viewing ✓
+2026-04-29T21:41:10.390990,REF-2026-022,andrew.scott@example.com,Viewing Invitation,Sent,Application Ref REF-2026-022 — Invitation to Viewing ✓
+2026-04-29T21:41:10.391735,REF-2026-023,cillian.murphy@example.com,Viewing Invitation,Sent,Application Ref REF-2026-023 — Invitation to Viewing ✓
+2026-04-29T21:41:10.392590,REF-2026-024,ruth.negga@example.com,Viewing Invitation,Sent,Application Ref REF-2026-024 — Invitation to Viewing ✓
+2026-04-29T21:41:10.393115,REF-2026-025,domhnall.gleeson@example.com,AI Rejection,Sent,Application Ref REF-2026-025 — Outcome: Unsuccessful
+2026-04-29T21:41:10.393780,REF-2026-027,fiona.shaw@example.com,Viewing Invitation,Sent,Application Ref REF-2026-027 — Invitation to Viewing ✓
+2026-04-29T21:41:10.394474,REF-2026-028,colm.meaney@example.com,Viewing Invitation,Sent,Application Ref REF-2026-028 — Invitation to Viewing ✓
+2026-04-29T21:41:10.395150,REF-2026-029,jamie.dornan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-029 — Invitation to Viewing ✓
+2026-04-29T21:41:10.395818,REF-2026-030,caitriona.balfe@example.com,Viewing Invitation,Sent,Application Ref REF-2026-030 — Invitation to Viewing ✓
+2026-04-30T10:32:23.992892,REF-2026-008,darragh.o'brien@example.com,Missing Documents,Sent,Application Ref REF-2026-008 — Action Required: Missing Documents
+2026-04-30T10:32:26.574557,REF-2026-026,kerry.condon@example.com,Missing Documents,Sent,Application Ref REF-2026-026 — Action Required: Missing Documents
+2026-04-30T10:32:27.344018,REF-2026-002,ciarán.ryan@example.com,Income Rejection,Sent,Application Ref REF-2026-002 — Outcome: Unsuccessful
+2026-04-30T10:32:27.429293,REF-2026-003,aoife.kelly@example.com,Income Rejection,Sent,Application Ref REF-2026-003 — Outcome: Unsuccessful
+2026-04-30T10:32:28.007281,REF-2026-011,roisín.ní.mhuirí@example.com,Income Rejection,Sent,Application Ref REF-2026-011 — Outcome: Unsuccessful
+2026-04-30T10:32:29.136671,REF-2026-025,domhnall.gleeson@example.com,Income Rejection,Sent,Application Ref REF-2026-025 — Outcome: Unsuccessful
+2026-04-30T11:03:58.538139,REF-2026-001,niamh.fitzgerald@example.com,Viewing Invitation,Sent,Application Ref REF-2026-001 — Invitation to Viewing ✓
+2026-04-30T11:03:58.538902,REF-2026-004,emma.walsh@example.com,Viewing Invitation,Sent,Application Ref REF-2026-004 — Invitation to Viewing ✓
+2026-04-30T11:03:58.539594,REF-2026-005,liam.brennan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-005 — Invitation to Viewing ✓
+2026-04-30T11:03:58.540016,REF-2026-006,seán.doyle@example.com,AI Rejection,Sent,Application Ref REF-2026-006 — Outcome: Unsuccessful
+2026-04-30T11:03:58.540428,REF-2026-007,claire.murphy@example.com,Viewing Invitation,Sent,Application Ref REF-2026-007 — Invitation to Viewing ✓
+2026-04-30T11:03:58.540968,REF-2026-009,sinéad.connolly@example.com,Viewing Invitation,Sent,Application Ref REF-2026-009 — Invitation to Viewing ✓
+2026-04-30T11:03:58.541477,REF-2026-010,patrick.healy@example.com,Viewing Invitation,Sent,Application Ref REF-2026-010 — Invitation to Viewing ✓
+2026-04-30T11:03:58.541959,REF-2026-012,conor.macgiolla@example.com,Viewing Invitation,Sent,Application Ref REF-2026-012 — Invitation to Viewing ✓
+2026-04-30T11:03:58.542632,REF-2026-013,méabh.de.búrca@example.com,Viewing Invitation,Sent,Application Ref REF-2026-013 — Invitation to Viewing ✓
+2026-04-30T11:03:58.543538,REF-2026-014,tadhg.ó'súilleabháin@example.com,Viewing Invitation,Sent,Application Ref REF-2026-014 — Invitation to Viewing ✓
+2026-04-30T11:03:58.544113,REF-2026-015,orlaith.ní.cheallaigh@example.com,Viewing Invitation,Sent,Application Ref REF-2026-015 — Invitation to Viewing ✓
+2026-04-30T11:03:58.544572,REF-2026-016,siobhán.o'connor@example.com,AI Rejection,Sent,Application Ref REF-2026-016 — Outcome: Unsuccessful
+2026-04-30T11:03:58.544959,REF-2026-017,eoin.murphy@example.com,Viewing Invitation,Sent,Application Ref REF-2026-017 — Invitation to Viewing ✓
+2026-04-30T11:03:58.545372,REF-2026-018,brendan.gleeson@example.com,Viewing Invitation,Sent,Application Ref REF-2026-018 — Invitation to Viewing ✓
+2026-04-30T11:03:58.545858,REF-2026-019,saoirse.ronan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-019 — Invitation to Viewing ✓
+2026-04-30T11:03:58.546305,REF-2026-020,paul.mescal@example.com,Viewing Invitation,Sent,Application Ref REF-2026-020 — Invitation to Viewing ✓
+2026-04-30T11:03:58.546865,REF-2026-021,barry.keoghan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-021 — Invitation to Viewing ✓
+2026-04-30T11:03:58.547341,REF-2026-022,andrew.scott@example.com,AI Rejection,Sent,Application Ref REF-2026-022 — Outcome: Unsuccessful
+2026-04-30T11:03:58.547715,REF-2026-023,cillian.murphy@example.com,Viewing Invitation,Sent,Application Ref REF-2026-023 — Invitation to Viewing ✓
+2026-04-30T11:03:58.548172,REF-2026-024,ruth.negga@example.com,Viewing Invitation,Sent,Application Ref REF-2026-024 — Invitation to Viewing ✓
+2026-04-30T11:03:58.548573,REF-2026-027,fiona.shaw@example.com,Viewing Invitation,Sent,Application Ref REF-2026-027 — Invitation to Viewing ✓
+2026-04-30T11:03:58.548956,REF-2026-028,colm.meaney@example.com,Viewing Invitation,Sent,Application Ref REF-2026-028 — Invitation to Viewing ✓
+2026-04-30T11:03:58.549647,REF-2026-029,jamie.dornan@example.com,Viewing Invitation,Sent,Application Ref REF-2026-029 — Invitation to Viewing ✓
+2026-04-30T11:03:58.550227,REF-2026-030,caitriona.balfe@example.com,Viewing Invitation,Sent,Application Ref REF-2026-030 — Invitation to Viewing ✓

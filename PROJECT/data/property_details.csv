@@ -1,0 +1,16 @@
+field,value
+property_id,PROP-RAN-2026-01
+address,"14 Charleston Road, Ranelagh, Dublin 6"
+type,2-bedroom apartment
+monthly_rent,2400
+annual_rent,28800
+available_from,2026-05-01
+lease_term_months,12
+pets_allowed,No
+smoking_allowed,No
+parking_included,No
+agency,Clarendon Residential
+agent_name,Siobhán Ní Bhriain
+agent_email,siobhan@clarendonresidential.ie
+income_multiplier_required,3.0
+max_shortlist,5

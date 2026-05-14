@@ -1,0 +1,71 @@
+{
+  "ref_number": "REF-2026-030",
+  "property_id": "PROP-004",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-030",
+  "folder_name": "REF-2026-030",
+  "applicant_name": "Caitriona Balfe",
+  "applicant_email": "caitriona.balfe@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.906515",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 8.3,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 8300.0,
+  "authoritative_income": 8300.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 7,
+  "red_flags": [
+    "Lack of specific details about Caitriona's work performance or character",
+    "The lack of concrete details about her character or behavior in the property might indicate superficiality."
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "This cover letter presents a strong motivation for renting this property, showcasing a deep understanding of the location. The stability indicators also provide confidence in the application.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "No notable inconsistencies found",
+  "composite_score": 82.5,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.46x. (Base Score: 82.5)"
+    },
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 4.61x. (Base Score: 82.5)"
+    }
+  ],
+  "recommendation": "Strong Candidate",
+  "ai_summary": "Caitriona Balfe presents a well-rounded application, showcasing moderate to high scores across various criteria. While her professional standing and tenancy history are commendable, the most impressive aspect of her application is her exceptional financial stability. However, there are minor red flags regarding personal motivation and a lack of concrete details about her character or behavior.",
+  "detailed_reasoning": "The Financial Stability score is near perfect, indicating that Caitriona can comfortably afford the rent without straining herself financially. Her Professional Standing and Tenancy History scores show stability and reliability in her professional and rental experiences. While Personal Motivation falls short of perfection, it's still a respectable 8/10, suggesting Caitriona might be open to growth and personal development. However, the lack of specific details about her character or behavior may raise concerns about superficiality.",
+  "transparency_note": "Caitriona excelled in demonstrating financial stability but could benefit from sharing more concrete examples of her professional achievements and character traits",
+  "action_required": "Invite to viewing with a brief follow-up discussion to address the lack of specific details",
+  "invite_to_viewing": true
+}

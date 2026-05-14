@@ -1,0 +1,76 @@
+{
+  "ref_number": "REF-2026-019",
+  "property_id": "PROP-001",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-019",
+  "folder_name": "REF-2026-019",
+  "applicant_name": "Saoirse Ronan",
+  "applicant_email": "saoirse.ronan@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.770749",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.54,
+  "income_score": 81,
+  "income_status": "Income Eligible",
+  "declared_income": 8500.0,
+  "authoritative_income": 8500.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 7,
+  "red_flags": [
+    "No specific red flags found",
+    "Noticeable lack of detail about landlord-tenant communication and common issues"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Saoirse Ronan appears to be highly motivated and interested in renting this property. Her established presence in the community and stable employment suggest long-term stability.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "Summary text here",
+  "composite_score": 77.8,
+  "score_breakdown": {
+    "income_score": 81,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 4.72x. (Base Score: 77.8)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 8.50x. (Base Score: 77.8)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 8.50x. (Base Score: 77.8)"
+    }
+  ],
+  "recommendation": "Strong Candidate",
+  "ai_summary": "Saoirse Ronan is a well-qualified candidate who has left a lasting impression on our review process. While financially stable, with an impressive 3.54x rent coverage, her professional standing is somewhat overshadowed by the lack of enthusiasm in her landlord reference. Additionally, her tenancy history is solid but doesn't convey exceptional merit. Nevertheless, she showcases genuine personal motivation and has zero red flags or verification issues.",
+  "detailed_reasoning": "Ronan's financial stability is a significant strength, showcasing a clear understanding of responsible rent management. However, her professional standing, although not lacking in its own right, is somewhat diluted by the subdued tone in her landlord reference. This lack of detail may indicate limited scope for upward momentum or opportunities for growth. The solid tenancy history and motivational concerns are mitigating factors, as she demonstrated a genuine desire to find suitable accommodation. In conclusion, this comprehensive assessment highlights Saoirse Ronan as a strong candidate who has minimized specific risks, demonstrating a reliable foundation for her tenancy application.",
+  "transparency_note": "Saoirse would benefit from more explicitly highlighting potential for growth or development in future endeavors, which could enhance the overall strength of her profile",
+  "action_required": "None",
+  "invite_to_viewing": true
+}

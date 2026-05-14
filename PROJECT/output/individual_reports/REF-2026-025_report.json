@@ -1,0 +1,109 @@
+{
+  "ref_number": "REF-2026-025",
+  "property_id": "PROP-003",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-025",
+  "folder_name": "REF-2026-025",
+  "applicant_name": "Domhnall Gleeson",
+  "applicant_email": "domhnall.gleeson@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-29T21:04:34.861255",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.44,
+  "income_score": 77,
+  "income_status": "Income Eligible",
+  "declared_income": 7400.0,
+  "authoritative_income": 6200.0,
+  "income_discrepancy": {
+    "declared": 7400.0,
+    "payslip": 6200.0,
+    "difference": 1200.0,
+    "difference_pct": 16.2
+  },
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 5,
+  "red_flags": [
+    "Lacking specifics,",
+    "Vagueness",
+    "Lack of enthusiasm"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Domhnall Gleeson presents as a genuinely interested and motivated tenant with stable income and employment. His letter does not raise any flags, suggesting him as a reliable candidate.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Medium",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "High",
+      "documents_involved": [
+        "application form data",
+        "proof of income data"
+      ],
+      "description": "Monthly gross income mismatch in application and proof of income forms.",
+      "values_compared": {
+        "monthly_gross_income": {
+          "Application Form Data": "7400",
+          "Proof of Income Data": "6200"
+        }
+      },
+      "recommendation": "Request clarification from applicant to resolve inconsistency."
+    },
+    {
+      "finding_id": 2,
+      "risk_level": "Medium",
+      "documents_involved": [
+        "application form data",
+        "employer reference content"
+      ],
+      "description": "Annual income reported by employer (\u20ac88,800) does not match monthly gross income reported on application or proof of income forms.",
+      "values_compared": {
+        "annual_income": {
+          "Employer Reference Content": "88800"
+        }
+      },
+      "recommendation": "Verify annual income with applicant and employer before proceeding."
+    }
+  ],
+  "inconsistency_summary": "Two inconsistencies found in the application, requiring further verification to ensure accuracy.",
+  "composite_score": 65.8,
+  "score_breakdown": {
+    "income_score": 77,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 50,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 60
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.20x. (Base Score: 65.8)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 6.20x. (Base Score: 65.8)"
+    }
+  ],
+  "recommendation": "Borderline",
+  "ai_summary": "Domhnall Gleeson presents a mixed profile. While he demonstrates adequate financial stability and a decent personal motivation, concerns arise from his professional standing, tenancy history, and verification integrity. Specifically, his employer reference lacks enthusiasm, and inconsistencies are found in his income reports, highlighting the need for clarification.",
+  "detailed_reasoning": "The score of 65.8 is largely driven by the financial discrepancies and logical inconsistencies. The declared monthly gross income does not match the proof of income data or employer-verified annual income, raising questions about the applicant's attention to detail. Furthermore, the lackluster enthusiasm in his references and the mediocre tenancy history warrant closer scrutiny. However, his personal motivation and financial stability do provide some reassurance.",
+  "transparency_note": "To improve, Mr. Gleeson could focus on refining his application materials to ensure accuracy and consistency, as well as cultivating more enthusiasm for potential landlord references.",
+  "action_required": "Request clarification from applicant to resolve income inconsistency; verify annual income with applicant and employer before proceeding",
+  "invite_to_viewing": false
+}

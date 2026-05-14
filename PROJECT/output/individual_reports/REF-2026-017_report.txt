@@ -1,0 +1,24 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-017
+Applicant: Eoin Murphy
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 74.5/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 40
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 60
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Eoin Murphy (Ref: REF-2026-017) presents a strong candidate profile for the Dublin2 property, demonstrating sufficient financial stability and personal motivation to secure a €1000/month rental. While his professional standing may be improving, the lack of relevance in his current activities is cause for cautious optimism.
+
+ACTION REQUIRED: Invite for an informal discussion about career development opportunities
+
+RED FLAGS:
+  [!] Lack of relevance and specificity

@@ -1,0 +1,14 @@
+field,value
+ref_number,REF-2026-011
+full_name,Roisín Ní Mhuirí
+date_of_birth,1990-01-01
+email,roisín.ní.mhuirí@example.com
+phone,+353 87 000 0000
+property_id,PROP-002
+employer_name,Self-Employed
+employment_type,Contractor
+monthly_gross_income,8000
+reason_for_moving,Relocation
+num_occupants,1
+consent_gdpr,Yes
+consent_date,2026-04-10

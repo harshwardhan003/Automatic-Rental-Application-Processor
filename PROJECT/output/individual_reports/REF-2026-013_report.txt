@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-013
+Applicant: Méabh de Búrca
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 82.5/100
+RECOMMENDATION: Strong Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Méabh de Búrca (Ref: REF-2026-013) is a promising applicant who shows strong potential with an impressive financial foundation, demonstrated reliability in previous tenancies, and a clear motivation to secure this property. While professional standing and personal testimonials could be bolstered, her overall profile suggests a responsible tenant with minimal risk.
+
+ACTION REQUIRED: None
+
+RED FLAGS:
+  [!] Notable omissions in terms of praising the applicant's qualities
+  [!] No direct comments on tenant's behavior, habits, or reliability

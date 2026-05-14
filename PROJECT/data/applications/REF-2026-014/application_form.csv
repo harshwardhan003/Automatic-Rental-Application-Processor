@@ -1,0 +1,14 @@
+field,value
+ref_number,REF-2026-014
+full_name,Tadhg Ó'Súilleabháin
+date_of_birth,1990-01-01
+email,tadhg.ó'súilleabháin@example.com
+phone,+353 87 000 0000
+property_id,PROP-003
+employer_name,Global Solutions Ltd
+employment_type,Permanent
+monthly_gross_income,6900
+reason_for_moving,Relocation
+num_occupants,1
+consent_gdpr,Yes
+consent_date,2026-04-10

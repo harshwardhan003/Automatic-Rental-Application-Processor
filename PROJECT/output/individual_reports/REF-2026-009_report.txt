@@ -1,0 +1,24 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-009
+Applicant: Sinéad Connolly
+Status: Eligible - Income Flagged
+
+COMPOSITE SCORE: 71.5/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 56
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Sinéad Connolly presents as a solid prospect for the property at 14 Charleston Road, Ranelagh. Despite being slightly below the ideal financial stability threshold of 3x rent coverage, her composite score is elevated by impressive tenancy history and personal motivation scores. However, the permanence of position in her job market may not guarantee consistent rental payments.
+
+ACTION REQUIRED: Invite to view the property
+
+RED FLAGS:
+  [!] Permanence of position may not be sufficient to ensure consistency in rental payments

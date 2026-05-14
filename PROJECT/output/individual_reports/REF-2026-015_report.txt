@@ -1,0 +1,24 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-015
+Applicant: Orlaith Ní Cheallaigh
+Status: Eligible - Income Flagged
+
+COMPOSITE SCORE: 74.2/100
+RECOMMENDATION: Strong Candidate
+
+SCORE BREAKDOWN:
+  income_score: 59
+  employer_ref_score_normalised: 60
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Orlaith Ní Cheallaigh presents a compelling package, bolstered by solid financial stability, a decent professional standing, and an excellent tenancy history. However, her motivations may be driven more by job security than personal characteristics, which raises some concerns. Upon reviewing the evidence, it's clear that Orlaith is an attractive candidate who requires further exploration.
+
+ACTION REQUIRED: Invite Orlaith to a viewing at 14 Charleston Road, Ranelagh, scheduled for [insert date].
+
+RED FLAGS:
+  [!] permanent high growth potential, may be emphasizing job security over Orlaith's personal traits

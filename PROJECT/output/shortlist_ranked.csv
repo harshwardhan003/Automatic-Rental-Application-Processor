@@ -1,0 +1,25 @@
+rank,ref_number,applicant_name,composite_score,income_ratio,recommendation,action_required,invite_to_viewing,status
+1,REF-2026-001,Niamh Fitzgerald,86.5,7.8,Good Candidate,Request additional information on qualifications and potential issues,True,Eligible - Proceeding to AI Scoring
+2,REF-2026-014,Tadhg Ó'Súilleabháin,82.8,3.83,Strong Candidate,Verify employment status and conduct a quick skills-based interview to confirm Tadhg's career aspirations.,True,Eligible - Proceeding to AI Scoring
+3,REF-2026-013,Méabh de Búrca,82.5,7.6,Strong Candidate,None,True,Eligible - Proceeding to AI Scoring
+4,REF-2026-023,Cillian Murphy,82.5,15.0,Good Candidate,Invite Cillian Murphy for an initial viewing to address the motivational concerns and provide further insight into his profile.,True,Eligible - Proceeding to AI Scoring
+5,REF-2026-024,Ruth Negga,82.5,8.2,Strong Candidate,Schedule a viewing appointment with Ruth to further discuss any concerns regarding tenancy-related qualities and verify the inconsistencies in her tenancy history.,True,Eligible - Proceeding to AI Scoring
+6,REF-2026-030,Caitriona Balfe,82.5,8.3,Strong Candidate,Invite to viewing with a brief follow-up discussion to address the lack of specific details,True,Eligible - Proceeding to AI Scoring
+7,REF-2026-027,Fiona Shaw,80.0,3.75,Good Candidate,None,True,Eligible - Proceeding to AI Scoring
+8,REF-2026-010,Patrick Healy,78.0,6.2,Good Candidate,"Request additional information on Patrick's Professional Standing, specifically dated projects or certifications that demonstrate competency",True,Eligible - Proceeding to AI Scoring
+9,REF-2026-028,Colm Meaney,78.0,5.8,Good Candidate,None,True,Eligible - Proceeding to AI Scoring
+10,REF-2026-019,Saoirse Ronan,77.8,3.54,Strong Candidate,None,True,Eligible - Proceeding to AI Scoring
+11,REF-2026-017,Eoin Murphy,74.5,4.0,Good Candidate,Invite for an informal discussion about career development opportunities,True,Eligible - Proceeding to AI Scoring
+12,REF-2026-015,Orlaith Ní Cheallaigh,74.2,2.96,Strong Candidate,"Invite Orlaith to a viewing at 14 Charleston Road, Ranelagh, scheduled for [insert date].",True,Eligible - Income Flagged
+13,REF-2026-021,Barry Keoghan,74.2,3.83,Good Candidate,Request further professional verification from at least two professional contacts,True,Eligible - Proceeding to AI Scoring
+14,REF-2026-012,Conor MacGiolla,74.0,7.2,Good Candidate,Verify documentation related to disciplinary issues,True,Eligible - Proceeding to AI Scoring
+15,REF-2026-005,Liam Brennan,72.0,5.5,Borderline,Request clarification on employment contract review outcome,True,Eligible - Proceeding to AI Scoring
+16,REF-2026-009,Sinéad Connolly,71.5,2.83,Good Candidate,Invite to view the property,True,Eligible - Income Flagged
+17,REF-2026-007,Claire Murphy,71.2,3.33,Good Candidate,Request additional information on monthly income and clarify any remaining inconsistencies,True,Eligible - Proceeding to AI Scoring
+18,REF-2026-029,Jamie Dornan,71.2,2.75,Good Candidate,None,True,Eligible - Income Flagged
+19,REF-2026-018,Brendan Gleeson,70.5,7.81,Good Candidate,"Request payslip evidence for the last 3-6 months to clarify declared income, invite to viewing for additional verification, and conduct a thorough tenant screening process to address outstanding concerns.",True,Eligible - Proceeding to AI Scoring
+20,REF-2026-020,Paul Mescal,69.2,3.04,Good Candidate,Invite him for a viewing to further discuss his motivation and tenancy history,True,Eligible - Proceeding to AI Scoring
+21,REF-2026-004,Emma Walsh,68.5,5.6,Good Candidate,Verify employment details and income,True,Eligible - Proceeding to AI Scoring
+22,REF-2026-016,Siobhán O'Connor,68.5,5.28,Borderline,Schedule an additional verification call to clarify income discrepancies and assess O'Connor's understanding of the required tenancy qualities.,False,Eligible - Proceeding to AI Scoring
+23,REF-2026-022,Andrew Scott,64.5,3.21,Borderline,"Request additional information on previous tenancies and specific reasons for moving to 14 Charleston Road, Ranelagh",False,Eligible - Proceeding to AI Scoring
+24,REF-2026-006,Seán Doyle,58.0,2.92,Borderline,"Request proof of actual income, clarification on annual income discrepancy from employer's statement",False,Eligible - Income Flagged

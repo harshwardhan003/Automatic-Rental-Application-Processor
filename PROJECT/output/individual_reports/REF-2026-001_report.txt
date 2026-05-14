@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-001
+Applicant: Niamh Fitzgerald
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 86.5/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 70
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Niamh Fitzgerald presents a strong profile, showcasing exceptional financial stability and personal motivation. While some omissions in her qualifications and noticeable absences of crucial information exist, they can be mitigated through further investigation. Weighing these factors against her professional standing and tenancy history yields an overall score indicating a reliable prospect.
+
+ACTION REQUIRED: Request additional information on qualifications and potential issues
+
+RED FLAGS:
+  [!] Some notable omissions in the description of Niamh's qualifications
+  [!] Noticeable absence of information about noise levels, messiness, or any potential issues

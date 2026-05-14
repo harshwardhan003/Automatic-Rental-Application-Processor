@@ -1,0 +1,26 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-010
+Applicant: Patrick Healy
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 78.0/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 70
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Patrick Healy presents as a reliable potential tenant for the Dublin2 property. While his financial stability appears strong, his professional standing and tenancy history raise concerns. His personal motivation is commendable, but a lack of specific detail in his references leaves some questions unanswered.
+
+ACTION REQUIRED: Request additional information on Patrick's Professional Standing, specifically dated projects or certifications that demonstrate competency
+
+RED FLAGS:
+  [!] Lack of relevant or verifiable detail
+  [!] Lack of specific detail
+  [!] No endorsement

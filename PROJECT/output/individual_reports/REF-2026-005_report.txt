@@ -1,0 +1,27 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-005
+Applicant: Liam Brennan
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 72.0/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 20
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 70
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Liam Brennan's application is marked by a mixed bag of strengths and concerns. Despite an impressive financial stability score, professional doubts linger due to his current performance improvement plan and lukewarm endorsement from previous employers. Tenancy history, while decent, is brought down by a lack of glowing testimonials.
+
+ACTION REQUIRED: Request clarification on employment contract review outcome
+
+RED FLAGS:
+  [!] Liam is currently on a performance improvement plan
+  [!] Contract review next month implies uncertainty about their standing
+  [!] Lack of enthusiasm or glowing endorsement
+  [!] No mention of tenancy-relevant qualities

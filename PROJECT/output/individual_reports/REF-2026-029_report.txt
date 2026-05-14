@@ -1,0 +1,24 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-029
+Applicant: Jamie Dornan
+Status: Eligible - Income Flagged
+
+COMPOSITE SCORE: 71.2/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 55
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Jamie Dornan presents as a strong contender for the Grand Canal Dock apartment. Financial stability is concerning, but well-covered by his excellent tenancy history and personal motivation. Professional standing requires growth, which seems reasonable given his career goals. Verification integrity has no red flags.
+
+ACTION REQUIRED: None
+
+RED FLAGS:
+  [!] No specific verification or examples provided

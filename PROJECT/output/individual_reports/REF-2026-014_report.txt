@@ -1,0 +1,21 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-014
+Applicant: Tadhg Ó'Súilleabháin
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 82.8/100
+RECOMMENDATION: Strong Candidate
+
+SCORE BREAKDOWN:
+  income_score: 93
+  employer_ref_score_normalised: 60
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Tadhg Ó'Súilleabháin stands out as a strong candidate, boasting an impressive financial stability score. With a robust rent coverage ratio and a spotless verification record, he has established a solid foundation for tenancy. While his professional standing and tenancy history could be refined, his personal motivation and commitment to the property are evident.
+
+ACTION REQUIRED: Verify employment status and conduct a quick skills-based interview to confirm Tadhg's career aspirations.

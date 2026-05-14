@@ -1,0 +1,27 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-028
+Applicant: Colm Meaney
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 78.0/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 40
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Colm Meaney presents a solid overall profile, underpinned by exceptional financial stability and minimal verification integrity concerns. However, his professional standing and tenancy history raise some doubts, as they are marked by a somewhat lackluster reference and mixed rental experiences. Despite these reservations, Meaney's strong personal motivation suggests he could excel in the right environment.
+
+ACTION REQUIRED: None
+
+RED FLAGS:
+  [!] Template-like response
+  [!] Lack of specifics
+  [!] Lack of specificity
+  [!] No enthusiastic endorsement

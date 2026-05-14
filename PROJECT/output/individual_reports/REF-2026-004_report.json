@@ -1,0 +1,90 @@
+{
+  "ref_number": "REF-2026-004",
+  "property_id": "PROP-004",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-004",
+  "folder_name": "REF-2026-004",
+  "applicant_name": "Emma Walsh",
+  "applicant_email": "emma.walsh@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.583757",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 5.6,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 6800.0,
+  "authoritative_income": 5600.0,
+  "income_discrepancy": {
+    "declared": 6800.0,
+    "payslip": 5600.0,
+    "difference": 1200.0,
+    "difference_pct": 17.6
+  },
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 4,
+  "red_flags": [
+    "Lack of specific details",
+    "No endorsement or recommendation",
+    "template-like language",
+    "lacks verifiable detail"
+  ],
+  "cover_letter_score": 7,
+  "cover_letter_summary": "Emma Walsh presents as a stable tenant, but her cover letter's brevity and lack of specific reasons for choosing this property suggest relatively low enthusiasm. Her permanent employment provides some stability, but the overall score reflects uncertainty about her level of interest.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "Medium",
+      "documents_involved": [
+        "APPLICATION FORM DATA",
+        "PROOF OF INCOME DATA"
+      ],
+      "description": "Monthly gross income reported in the application form (\u20ac6800) does not match the reported annual income of \u20ac81600.",
+      "values_compared": {
+        "monthly_gross_income": [
+          "\u20ac6800",
+          "\u20ac5600"
+        ]
+      },
+      "recommendation": "Verify the applicant's employment details and income at the next available opportunity."
+    }
+  ],
+  "inconsistency_summary": "Emma Walsh's application appears to be mostly accurate, but there is a discrepancy between her reported monthly gross income and annual income. Further verification of her employment and income is recommended.",
+  "composite_score": 68.5,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 40,
+    "cover_letter_score_normalised": 70,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 60
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.11x. (Base Score: 68.5)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Emma Walsh appears to be a strong candidate, demonstrating excellent financial stability and motivation. However, the discrepancy in reported income and lack of specific details in her application raise concerns that must be addressed. To confirm her eligibility, I recommend verifying employment details and income.",
+  "detailed_reasoning": "While Emma presents an attractive financial profile, with 5.6x rent coverage, her professional standing is marred by vague language and no endorsement or recommendation. The tenancy history score of 4/10 suggests some flexibility but also potential risks. Emma's motivational letter lacks specific examples, which might indicate a lack of clear goals or commitment to being a responsible tenant. Furthermore, the financial discrepancy between declared monthly income (\u20ac6800) and payslip data (\u20ac5600) merits investigation. It is crucial to clarify this variance before making a final decision.",
+  "transparency_note": "Emma would benefit from providing more specific details in her application, as well as addressing the inconsistencies in her reported income. This will help build trust with prospective landlords.",
+  "action_required": "Verify employment details and income",
+  "invite_to_viewing": true
+}

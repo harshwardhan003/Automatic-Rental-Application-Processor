@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-012
+Applicant: Conor MacGiolla
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 74.0/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 30
+  landlord_ref_score_normalised: 40
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Conor MacGiolla presents a promising candidate for the property at Dublin2. Despite some red flags regarding disciplinary issues, his strong financial stability and personal motivation suggest he is committed to being a responsible tenant. However, his professional standing and tenancy history require further scrutiny. Overall, Conor demonstrates potential but requires additional evaluation.
+
+ACTION REQUIRED: Verify documentation related to disciplinary issues
+
+RED FLAGS:
+  [!] disciplinary issues regarding workplace conduct
+  [!] Limited detail provided

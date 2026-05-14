@@ -1,0 +1,80 @@
+{
+  "ref_number": "REF-2026-029",
+  "property_id": "PROP-002",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-029",
+  "folder_name": "REF-2026-029",
+  "applicant_name": "Jamie Dornan",
+  "applicant_email": "jamie.dornan@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.893763",
+  "status": "Eligible - Income Flagged",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 2.75,
+  "income_score": 55,
+  "income_status": "Income - Borderline (Flagged)",
+  "declared_income": 8800.0,
+  "authoritative_income": 8800.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 7,
+  "red_flags": [
+    "No specific verification or examples provided"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Overall, Jamie presents as a stable professional with sincere interest in Charleston Road. While not explicitly highlighting the property's features, he demonstrates an appreciation for community, which may translate to care for his new living space.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "No inconsistencies found in documents.",
+  "composite_score": 71.2,
+  "score_breakdown": {
+    "income_score": 55,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.67x. (Base Score: 71.2)"
+    },
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 4.89x. (Base Score: 71.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 8.80x. (Base Score: 71.2)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 8.80x. (Base Score: 71.2)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Jamie Dornan presents as a strong contender for the Grand Canal Dock apartment. Financial stability is concerning, but well-covered by his excellent tenancy history and personal motivation. Professional standing requires growth, which seems reasonable given his career goals. Verification integrity has no red flags.",
+  "detailed_reasoning": "Jamie's financial standing initially raised concerns, but upon closer examination, it becomes clear that a one-time bonus inflates his reported income. This creates a minor discrepancy, but his tenancy history and personal motivation compensate nicely. Moreover, the lack of specific verification or examples further supports Jamie's case.",
+  "transparency_note": "Jamie would benefit from career development to boost professional standing, while maintaining financial discipline to avoid future fluctuations.",
+  "action_required": "None",
+  "invite_to_viewing": true
+}

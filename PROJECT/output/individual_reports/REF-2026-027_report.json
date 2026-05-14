@@ -1,0 +1,81 @@
+{
+  "ref_number": "REF-2026-027",
+  "property_id": "PROP-001",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-027",
+  "folder_name": "REF-2026-027",
+  "applicant_name": "Fiona Shaw",
+  "applicant_email": "fiona.shaw@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.869482",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 3.75,
+  "income_score": 90,
+  "income_status": "Income Eligible",
+  "declared_income": 9000.0,
+  "authoritative_income": 9000.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 7,
+  "red_flags": [
+    "Notable omissions: what are Fiona's strengths in a tenancy context?",
+    "The reference does not directly address the issue or discuss specific qualities"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Fiona Shaw demonstrates genuine interest in the property through specific references to the area. While her motivations for moving are not deeply explored, she presents as stable and suitable.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "No significant inconsistencies detected",
+  "composite_score": 80.0,
+  "score_breakdown": {
+    "income_score": 90,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-002",
+      "address": "Apartment 4, Grand Canal Dock",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 2.81x. (Base Score: 80.0)"
+    },
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 5.00x. (Base Score: 80.0)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 9.00x. (Base Score: 80.0)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 9.00x. (Base Score: 80.0)"
+    }
+  ],
+  "recommendation": "Good Candidate",
+  "ai_summary": "Fiona Shaw is a strong candidate who effectively demonstrates financial stability, but her professional standing and tenancy history show some inconsistencies. Her motivational concerns are relatively minor, and verification integrity presents no issues. A weighted composite score of 80/100 indicates a solid overall performance.",
+  "detailed_reasoning": "Fiona's impressive 3.75x rent coverage ratio is the strongest aspect of her application, demonstrating a clear capacity to meet financial obligations. However, a lukewarm professional standing score (5/10) and mixed tenancy history (7/10) raise concerns about potential issues with communication or adaptability. Thankfully, Fiona's motivational concerns are limited to a desire for flexibility in lease terms, which is manageable. Verification integrity is also spotless, with no reported issues.",
+  "transparency_note": "Fiona could benefit from highlighting her strengths in a tenancy context and focusing on addressing any inconsistencies in her professional history. This would further strengthen her application.",
+  "action_required": "None",
+  "invite_to_viewing": true
+}

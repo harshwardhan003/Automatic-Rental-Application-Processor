@@ -1,0 +1,26 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-024
+Applicant: Ruth Negga
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 82.5/100
+RECOMMENDATION: Strong Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 70
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Ruth Negga (REF-2026-024) presents a compelling case as a prospective tenant for our Dublin2 property, with an impressive financial stability score and high personal motivation. However, her professional standing could benefit from further growth, and her tenancy history exhibits some inconsistencies, warranting closer examination.
+
+ACTION REQUIRED: Schedule a viewing appointment with Ruth to further discuss any concerns regarding tenancy-related qualities and verify the inconsistencies in her tenancy history.
+
+RED FLAGS:
+  [!] notable omissions
+  [!] faint praise
+  [!] Lack of direct mention of tenancy-relevant qualities like housekeeping or noise levels

@@ -1,0 +1,94 @@
+{
+  "ref_number": "REF-2026-011",
+  "property_id": "PROP-003",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-011",
+  "folder_name": "REF-2026-011",
+  "applicant_name": "Rois\u00edn N\u00ed Mhuir\u00ed",
+  "applicant_email": "rois\u00edn.n\u00ed.mhuir\u00ed@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-29T21:04:34.855488",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 4.44,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 8000.0,
+  "authoritative_income": 8000.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 4,
+  "landlord_ref_score": 5,
+  "red_flags": [
+    "Lack of relevant detail",
+    "No specific tenant-relevant qualities mentioned",
+    "Notable omissions: no mention of tenancy-relevant qualities, apartment condition, or any negative behavior"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "Overall, Rois\u00edn presents herself as a stable and responsible candidate. While her motivation could be explored further, she provides concrete indicators of her stability and shows a reasonable interest in the property.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "High",
+  "inconsistency_findings": [
+    {
+      "finding_id": 1,
+      "risk_level": "High",
+      "documents_involved": [
+        "APPLICATION FORM DATA",
+        "PROOF OF INCOME DATA"
+      ],
+      "description": "Monthly gross income discrepancy between application form and proof of income.",
+      "values_compared": {
+        "monthly_gross_income": [
+          "8000 (Application)",
+          "8000 (Proof of Income)"
+        ]
+      },
+      "recommendation": "Request additional documentation or clarification to confirm the applicant's monthly gross income."
+    }
+  ],
+  "inconsistency_summary": "The application contains a high-risk inconsistency regarding the applicant's monthly gross income. Further investigation is required before proceeding with the rental application verification process.",
+  "composite_score": 68.5,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 40,
+    "landlord_ref_score_normalised": 50,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 40
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.33x. (Base Score: 68.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 8.00x. (Base Score: 68.5)"
+    },
+    {
+      "property_id": "PROP-004",
+      "address": "Dublin2",
+      "reason": "Located in preferred area (Dublin). Meets/exceeds bed requirement (1+). Income coverage is 8.00x. (Base Score: 68.5)"
+    }
+  ],
+  "recommendation": "Borderline",
+  "ai_summary": "Ro\u00eds\u00edn N\u00ed Mhuir\u00ed's application exhibits both promise and caution. Although their financial stability is robust, with a score of 100/100, other aspects of their profile raise concern. A high risk of verification integrity issues, combined with motivational inconsistencies and a lack of tenancy-relevant details, lead us to classify them as borderline candidates.",
+  "detailed_reasoning": "While Ro\u00eds\u00edn's financial foundation appears solid, the existence of monthly gross income discrepancies between their application form and proof of income necessitates further clarification. Additionally, the notable omissions in their reference letters suggest a lack of understanding about what landlords are looking for in a tenant. These flaws, combined with average scores in tenancy history (5/10) and professional standing (4/10), temper our enthusiasm. Although they demonstrate personal motivation (8/10), it is not enough to outweigh the concerns surrounding their application.",
+  "transparency_note": "Ro\u00eds\u00edn would benefit from providing more specific examples of tenant-relevant qualities, apartment condition, or experiences that showcase their tenancy skills and adaptability.",
+  "action_required": "Request additional documentation clarifying monthly gross income and request a detailed tenancy history report from at least one previous landlord",
+  "invite_to_viewing": true
+}

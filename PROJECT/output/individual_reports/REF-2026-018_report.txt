@@ -1,0 +1,25 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-018
+Applicant: Brendan Gleeson
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 70.5/100
+RECOMMENDATION: Good Candidate
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 50
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 80
+  doc_completeness_score: 100
+  inconsistency_base_score: 40
+
+AI SUMMARY:
+Brendan Gleeson presents as a strong candidate, offering high financial stability and promising personal motivation. However, inconsistencies in his professional standing, tenancy history, and verification integrity raise concerns. Nevertheless, with careful clarification and validation of his income and employment, he has the potential to become an excellent tenant.
+
+ACTION REQUIRED: Request payslip evidence for the last 3-6 months to clarify declared income, invite to viewing for additional verification, and conduct a thorough tenant screening process to address outstanding concerns.
+
+RED FLAGS:
+  [!] Lack of specific information
+  [!] No enthusiasm or endorsement

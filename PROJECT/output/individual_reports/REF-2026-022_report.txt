@@ -1,0 +1,26 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-022
+Applicant: Andrew Scott
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 64.5/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 68
+  employer_ref_score_normalised: 30
+  landlord_ref_score_normalised: 40
+  cover_letter_score_normalised: 70
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Andrew Scott presents as a candidate who has some significant red flags that cannot be entirely discounted, but also shows potential. A lack of specificity in his tenancy history and notable omissions in the reference raise concerns about his preparedness for this tenancy. However, his high financial stability score suggests he could manage the rent, and his personal motivation suggests a genuine interest in moving forward.
+
+ACTION REQUIRED: Request additional information on previous tenancies and specific reasons for moving to 14 Charleston Road, Ranelagh
+
+RED FLAGS:
+  [!] Notable omissions in the reference
+  [!] Notable omission of key tenancy-relevant qualities
+  [!] Lack of specificity on behavior

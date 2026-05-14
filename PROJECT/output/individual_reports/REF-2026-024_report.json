@@ -1,0 +1,72 @@
+{
+  "ref_number": "REF-2026-024",
+  "property_id": "PROP-004",
+  "folder_path": "D:\\Harshwardhan Dongare\\MASTERS\\SEM_2\\intelligent agent\\CA\\PROJECT\\data\\applications\\REF-2026-024",
+  "folder_name": "REF-2026-024",
+  "applicant_name": "Ruth Negga",
+  "applicant_email": "ruth.negga@example.com",
+  "consent_given": true,
+  "preferences": {
+    "area": "Dublin",
+    "beds": 1
+  },
+  "received_at": "2026-04-30T10:32:22.833006",
+  "status": "Eligible - Proceeding to AI Scoring",
+  "doc_status": {
+    "application_form.csv": "PRESENT",
+    "cover_letter.txt": "PRESENT",
+    "employer_reference.txt": "PRESENT",
+    "landlord_reference.txt": "PRESENT",
+    "proof_of_income.csv": "PRESENT",
+    "photo_id_present.txt": "PRESENT"
+  },
+  "missing_docs": [],
+  "doc_check_passed": true,
+  "income_ratio": 8.2,
+  "income_score": 100,
+  "income_status": "Income Eligible",
+  "declared_income": 8200.0,
+  "authoritative_income": 8200.0,
+  "income_discrepancy": null,
+  "income_eligible": true,
+  "employer_ref_score": 5,
+  "landlord_ref_score": 7,
+  "red_flags": [
+    "notable omissions",
+    "faint praise",
+    "Lack of direct mention of tenancy-relevant qualities like housekeeping or noise levels"
+  ],
+  "cover_letter_score": 8,
+  "cover_letter_summary": "This tenant appears to be a genuine candidate with stable employment and a clear interest in the area. While they don't specifically highlight the property's features, their community references suggest a willingness to put down roots.",
+  "cover_letter_concerns": [],
+  "inconsistency_risk": "Low",
+  "inconsistency_findings": [],
+  "inconsistency_summary": "Applicant Ruth Negga's documents appear to align, with no obvious inconsistencies found.",
+  "composite_score": 82.5,
+  "score_breakdown": {
+    "income_score": 100,
+    "employer_ref_score_normalised": 50,
+    "landlord_ref_score_normalised": 70,
+    "cover_letter_score_normalised": 80,
+    "doc_completeness_score": 100,
+    "inconsistency_base_score": 100
+  },
+  "alternative_properties": [
+    {
+      "property_id": "PROP-001",
+      "address": "14 Charleston Road, Ranelagh",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 3.42x. (Base Score: 82.5)"
+    },
+    {
+      "property_id": "PROP-003",
+      "address": "7 Rathmines Road Lower",
+      "reason": "Meets/exceeds bed requirement (1+). Income coverage is 4.56x. (Base Score: 82.5)"
+    }
+  ],
+  "recommendation": "Strong Candidate",
+  "ai_summary": "Ruth Negga (REF-2026-024) presents a compelling case as a prospective tenant for our Dublin2 property, with an impressive financial stability score and high personal motivation. However, her professional standing could benefit from further growth, and her tenancy history exhibits some inconsistencies, warranting closer examination.",
+  "detailed_reasoning": "The applicant's financial stability is outstanding, boasting 8.2x rent coverage, which significantly mitigates the risk of falling behind on payments. Her low-risk verification integrity adds another layer of assurance. Moreover, her personal motivation score indicates a strong drive to maintain a clean and respectful tenancy. However, her professional standing, while respectable, could be strengthened by further achievements or certifications. The notable omission of direct mentions regarding housekeeping and noise levels in the reference letters and cover letter hints at potential concerns that require addressing during the viewing process.",
+  "transparency_note": "I encouraged Ruth to emphasize her relevant skills and commitment to being a respectful tenant in future applications, which would enhance her overall candidacy.",
+  "action_required": "Schedule a viewing appointment with Ruth to further discuss any concerns regarding tenancy-related qualities and verify the inconsistencies in her tenancy history.",
+  "invite_to_viewing": true
+}

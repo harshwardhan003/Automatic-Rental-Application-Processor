@@ -1,0 +1,27 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-002
+Applicant: Ciarán Ryan
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 61.5/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 84
+  employer_ref_score_normalised: 40
+  landlord_ref_score_normalised: 40
+  cover_letter_score_normalised: 70
+  doc_completeness_score: 100
+  inconsistency_base_score: 40
+
+AI SUMMARY:
+Ciarán Ryan's application is a mixed bag. Despite an impressive 3.61x rent coverage and moderately motivated, his lack of detail and inconsistent information raise serious concerns. His previous tenancy history and professional standing also leave much to be desired.
+
+ACTION REQUIRED: Request additional documentation to confirm income and tenancy dates
+
+RED FLAGS:
+  [!] Lack of detail
+  [!] No verifiable evidence
+  [!] Lack of enthusiastic recommendation
+  [!] No mention of other important qualities such as cleanliness, respect for neighbors, etc.

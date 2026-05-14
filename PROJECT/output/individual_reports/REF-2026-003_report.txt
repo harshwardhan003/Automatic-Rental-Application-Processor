@@ -1,0 +1,27 @@
+DRAP APPLICANT REPORT
+============================================================
+Reference: REF-2026-003
+Applicant: Aoife Kelly
+Status: Eligible - Proceeding to AI Scoring
+
+COMPOSITE SCORE: 69.5/100
+RECOMMENDATION: Borderline
+
+SCORE BREAKDOWN:
+  income_score: 100
+  employer_ref_score_normalised: 30
+  landlord_ref_score_normalised: 50
+  cover_letter_score_normalised: 40
+  doc_completeness_score: 100
+  inconsistency_base_score: 100
+
+AI SUMMARY:
+Aoife Kelly's application is a puzzle of mixed signals. While her financial stability is impeccable, her professional standing and tenancy history raise concerns. Her personal motivation is decent but lacks conviction. Despite low-risk verification, the overall package fails to impress. This candidate may benefit from additional scrutiny.
+
+ACTION REQUIRED: Request additional information on her employment history and a more detailed explanation of the circumstances surrounding her previous short-term leases.
+
+RED FLAGS:
+  [!] Notable omissions of tenancy-relevant qualities
+  [!] Lack of verifiable detail
+  [!] Lack of detail
+  [!] No indication of reliability or responsibility
