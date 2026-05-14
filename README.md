@@ -353,4 +353,5 @@ MSc Artificial Intelligence, National College of Ireland, Dublin
 
 ## Acknowledgements
 
-Built as part of the H9IAPA (Intelligent Agents and Process Automation) module at National College of Ireland. All applicant data used in this system is entirely synthetic, generated programmatically for demonstration purposes. Clarendon Residential is a fictional agency created for this assignment.
+All applicant data used in this system is entirely synthetic, generated programmatically for demonstration purposes. Clarendon Residential is a fictional agency created for this assignment.
+
